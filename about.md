@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am currently a PhD student in Neuroscience at The University of Western Ontario, Canada, working with Drs. Marieke Mur, Julio Martinez-Trujillo and Jörn Diedrichsen. 
+I am a PhD candidate in Neuroscience at The University of Western Ontario, Canada, working with Drs. Marieke Mur, Julio Martinez-Trujillo and Jörn Diedrichsen. 
 
-I am fascinated by intelligence in both biological brain and the machine. My research focuses on how prefrontal cortex, the hub of intelligence, supports multiple higher-order cognitive functions flexibly, using monkey electrophysiology and human fMRI. I believe that understanding the neural mechanisms of flexible cognition will provide innovative solutions to artificial general intelligence. 
+I am fascinated by intelligence in both biological brain and the machine. My research focuses on how prefrontal cortex, the hub of intelligence, supports multiple higher-order cognitive functions flexibly, using monkey electrophysiology and human fMRI. More specifically, I'm exploring how PFC generalizes learned experience to new tasks and how tasks are inter-related and represented in the brain. I believe that understanding the neural mechanisms of flexible cognition will provide innovative solutions to artificial general intelligence. 
 
-Before starting my PhD, I finished my BEng in Computer Science and BSc in Mathematics at Sichuan University, China (2016-2020). 
+Before starting grad school, I finished my BEng in Computer Science and BSc in Mathematics at Sichuan University, China (2016-2020). 
 
 I am looking for industry jobs doing AI research or postdoc positions for neuroAI and reinforcement learning. 
 
