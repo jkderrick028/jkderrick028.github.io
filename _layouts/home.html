@@ -63,3 +63,11 @@ layout: default
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
   {%- endif -%}
 </div>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Register.StartupHook('TeX Jax Ready', function () {
+    MathJax.InputJax.TeX.prefilterHooks.Add(function (data) {
+      data.math = data.math.replace(/^% <!\[CDATA\[/, '').replace(/%\]\]>$/, '');
+    });
+  });
+  </script>
