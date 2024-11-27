@@ -30,7 +30,7 @@ permalink: /publications/
 
 ---
 
-**Behavioral inflexibility from a neuronal population perspective**\
+**Behavioral inflexibility from a neuronal population perspective.**\
 <span style="color:#696969"><u>J. Xiang</u>, Y. Chen, M. Roussy. 2021, *The Journal of Neuroscience* 41, 5350-5352. [`paper`](https://www.jneurosci.org/content/41/25/5350)</span>
 
 ---
