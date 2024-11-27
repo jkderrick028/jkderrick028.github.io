@@ -5,8 +5,6 @@ permalink: /publications/
 ---
 
 
----
-
 **Task-specific topographical maps of neural activity in the primate lateral prefrontal cortex.**
 <u>J. Xiang</u>, M. Roussy, B. Corrigan, R. A. Gulli, R. Luna, M. H. Mofrad, L. Muller, J. Diedrichsen, T. W. Schmitz, J. Martinez-Trujillo, M. Mur. 2024, in revision. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v1).
 
