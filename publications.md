@@ -38,4 +38,3 @@ permalink: /publications/
 **Measuring the spatiotemporal scale of prefrontal population codes for visuospatial working memory.**\
 <span style="color:#696969"><u>J. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2021, *Canadian Association for Neuroscience Annual Meeting (CAN)*, online. (Poster)</span>
 
---- 
