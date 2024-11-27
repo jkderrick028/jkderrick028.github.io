@@ -10,32 +10,32 @@ permalink: /publications/
 
 ---
 
-**Toward functional mapping of primate prefrontal cortex.**
+**Toward functional mapping of primate prefrontal cortex.**\
 <span style="color:#696969"><u>J. Xiang</u>, T. W. Schmitz, M. Mur. 2024, under review.</span>
 
 ---
 
-**Compositional representation of tasks in human multiple-demand cortex.**
+**Compositional representation of tasks in human multiple-demand cortex.**\
 <span style="color:#696969"><u>J. Xiang</u>, M. Assem, G. Ngo, J. Duncan, M. Mur. 2024, *Organization for Human Brain Mapping (OHBM)*, Seoul, Korea. (Poster)</span>
 
 ---
 
-**Characterizing the spatial organization of population codes in macaque prefrontal cortex during visuospatial tasks.**
+**Characterizing the spatial organization of population codes in macaque prefrontal cortex during visuospatial tasks.**\
 <span style="color:#696969"><u>J. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2023, *Vision Science Society Annual Meeting*, Florida, US. (Poster)</span>
 
 --- 
 
-**Characterizing the spatial organization of population codes in prefrontal cortex.**
+**Characterizing the spatial organization of population codes in prefrontal cortex.**\
 <span style="color:#696969"><u>J. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2022, *Society for Neuroscience Annual Meeting*, San Diego, US. (Nanosymposium talk)</span>
 
 ---
 
-**Behavioral inflexibility from a neuronal population perspective**
+**Behavioral inflexibility from a neuronal population perspective**\
 <span style="color:#696969"><u>J. Xiang</u>, Y. Chen, M. Roussy. 2021, *The Journal of Neuroscience* 41, 5350-5352. [`paper`](https://www.jneurosci.org/content/41/25/5350)</span>
 
 ---
 
-**Measuring the spatiotemporal scale of prefrontal population codes for visuospatial working memory.**
+**Measuring the spatiotemporal scale of prefrontal population codes for visuospatial working memory.**\
 <span style="color:#696969"><u>J. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2021, *Canadian Association for Neuroscience Annual Meeting*, online. (Poster)</span>
 
 --- 
