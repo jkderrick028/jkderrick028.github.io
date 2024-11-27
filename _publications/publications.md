@@ -1,3 +1,10 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+
 ## Publications
 	
 	{\footnotesize 2024} 		& \textbf{J. Xiang}, M. Roussy, B. Corrigan, R. A. Gulli, R. Luna, M. H. Mofrad, L. Muller, J. Diedrichsen, T. W. Schmitz, J. Martinez-Trujillo, M. Mur. Task-specific topographical maps of neural activity in the primate lateral prefrontal cortex. \href{https://www.biorxiv.org/content/10.1101/2024.05.10.591729v1}{bioRxiv}. \textit{Nature Communications. In revision}
