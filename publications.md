@@ -5,8 +5,6 @@ permalink: /publications/
 ---
 
 
-## Publications
-
 ---
 
 $\textbf{Task-specific topographical maps of neural activity in the primate lateral prefrontal cortex.}$
