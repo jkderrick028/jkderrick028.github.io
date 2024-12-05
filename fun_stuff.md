@@ -10,11 +10,13 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 
 ### Sketching
 
-![image](/_fun_stuff/night_sketch.jpeg)
+![image](./_fun_stuff/night_sketch.jpeg)
 *sketching street scene, ref Martin Lewis.*
 
 
-![image](/_fun_stuff/kyoto_train_station.jpeg)
+![image](./_fun_stuff/kyoto_train_station.jpeg)
+
+
 *travel sketch, a train station in Kyoto, Japan*
 
 ### Painting
