@@ -1,5 +1,5 @@
 ---
-layout: fun-stuff
+layout: page
 title: Just for fun
 permalink: /fun_stuff/
 ---
