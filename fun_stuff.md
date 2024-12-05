@@ -8,4 +8,15 @@ I am guilty sometimes that I probably have way too many hobbies that would take 
 
 I started learning fine arts (sketching objects and figures, painting) since I was in primary school. During grad school, I got into urban sketching, where you take your sketchbook anywhere and depict the scenes. I joined the urban sketching group in Toronto once. It was a blast! 
 
+### Sketching
+
+![image](fun_stuff/night_sketch.jpeg)
+
+
+### Painting
+
+
+### Photography
+
+
 
