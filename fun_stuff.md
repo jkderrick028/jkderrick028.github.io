@@ -13,7 +13,7 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 <!-- ![image](./_fun_stuff/night_sketch.jpeg)
 *sketching street scene, ref Martin Lewis.* -->
 <figure>
-    <img src="https://drive.google.com/file/d/1Hel175KWiJZcVRRcUX5_47lH53MGBC7b/view?usp=sharing">
+    <img src="https://drive.google.com/uc?export=view&id= 1Hel175KWiJZcVRRcUX5_47lH53MGBC7b">
     <figcaption>sketching street scene, ref Martin Lewis.</figcaption>
 </figure>
 
