@@ -28,3 +28,11 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 
 
 
+<body>
+
+</body>
+
+<iframe src="https://www.google.com/maps/d/u/0/edit?mid=1MkEfQg-C_BC17sVrIniFyoGX4iwFaKs&usp=sharing" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+

@@ -29,7 +29,7 @@ exclude:
   - jekyll-theme-hamilton.gemspec
 
 
-markdown: kramdown
+markdown: GFM
 
 # Jekyll SEO Tag (Optional)
 # =========================
