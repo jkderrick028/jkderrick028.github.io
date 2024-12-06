@@ -20,6 +20,7 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 ![image](./_fun_stuff/kyoto_train_station.jpeg)
 *travel sketch, a train station in Kyoto, Japan*
 
+
 ### Painting
 
 ![image](./_fun_stuff/painting_1.jpeg)
