@@ -10,7 +10,7 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 
 ### Sketching
 
-![image](./_fun_stuff/haha.svg)
+![image](/_fun_stuff/haha.svg)
 
 
 
