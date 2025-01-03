@@ -1,0 +1,33 @@
+/* modification for button copy */
+.highlight > pre > div{
+  display: flex;
+  flex-direction: row-reverse;
+}
+.btn-copy{
+  color: #FFF;
+  background-color: transparent;
+  border: 1;
+  padding: 5px 10px;
+  cursor: pointer;
+  opacity: 0.25;
+}
+.btn-copy:hover{
+  opacity: 1;
+}
+
+.btn-copy:active,
+.btn-copy:focus {
+  opacity: 1;
+}
+/* modification for tables */
+
+table.alternate_color tr:nth-child(odd){
+   background-color: #f6f8fa;
+}
+
+td {
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
