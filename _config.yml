@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Danh Truong, PhD"
+title                    : "Jinkang (Derrick) Xiang"
 title_separator          : "-"
-subtitle                 : "Works by Danh!" # site tagline that appears below site title in masthead
+# subtitle                 : "Works by Danh!" # site tagline that appears below site title in masthead
 name                     : ""
-description              : "Works by Danh!"
+# description              : "Works by Danh!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "danhtruong/danhtruong.github.io"
+repository               : "jkderrick028/jkderrick028.github.io"
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -80,7 +80,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : danhdtruong
+  username               : jkderrick028
 facebook:
   username               : 
   app_id                 :
@@ -103,40 +103,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Danh Truong"
-  avatar           : "/images/170510-Danh-Truong-SL-0004.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Instructor at MD Anderson Cancer Center"
-  location         : "Houston, Texas"
-  email            :
+  name             : "Jinkang (Derrick) Xiang"
+  avatar           : "/images/Derrick.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD student in neuroscience at The University of Western Ontario"
+  location         : "London, Canada"
+  email            : jkderrick028@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dtruong4@mdanderson.org"
+      url: "mailto:jkderrick028@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/ddtruong"
+      url: "https://linkedin.com/in/jkderrick028"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/danhdtruong"
+      url: "https://twitter.com/jkderrick028"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/danhtruong"
+      url: "https://github.com/jkderrick028"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dtruong4@mdanderson.org"
+      url: "mailto:jkderrick028@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/ddtruong"
+      url: "https://linkedin.com/in/jkderrick028"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/danhdtruong"
+      url: "https://twitter.com/jkderrick028"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/danhtruong"    
+      url: "https://github.com/jkderrick028"    
 
 # Reading Files
 include:
