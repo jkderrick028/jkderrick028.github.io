@@ -28,12 +28,12 @@ __The University of Western Ontario__ Graduate Research Associate (Schulich Scho
 `2023.07-2023.08`
 __Neuromatch Academy__ Lead Teaching Assistant for Deep Learning course 
 
-`2020-2021` 
+`2020.08-2021.03` 
 __Institute of Neuroscience, Chinese Academy of Sciences__ Research Assistant
 
 ## Education
 
-`2016-2020`
+`2016.09-2020.07`
 __Sichuan University__ (Chengdu, China) BEng in Computer Science, BSc in Mathematics
 
 `2018.02-2018.07`
