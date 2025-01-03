@@ -6,11 +6,19 @@ toc: true
 author_profile: true
 ---
 
-## Danh D. Truong
+## Jinkang (Derrick) Xiang
 
-Biomedical Engineering PhD 
+I am a PhD candidate in Neuroscience at The University of Western Ontario, Canada, working with Drs. Marieke Mur, Julio Martinez-Trujillo and Jörn Diedrichsen. 
 
-I am an Instructor at UT MD Anderson Cancer Center. I study mesenchymal tissue differentiation as a model for understanding the plasticity of soft tissue sarcomas and bone sarcomas. My research interests are cancer biology, phenotypic plasticity, and machine learning. My favorite book series is the The Expanse but I also love The Lord of the Rings and The Legend of Drizzt series. 
+I am fascinated by intelligence in both biological brain and the machine. My research focuses on how prefrontal cortex, the hub of intelligence, supports multiple higher-order cognitive functions flexibly, using monkey electrophysiology and human fMRI. More specifically, I'm exploring how PFC generalizes learned experience to new tasks and how tasks are inter-related and represented in the brain. I believe that understanding the neural mechanisms of flexible cognition will provide innovative solutions to artificial general intelligence. 
+
+I am also passionate about applying computational methods to solving real-world challenges. 
+
+Before starting grad school, I finished my BEng in Computer Science and BSc in Mathematics at Sichuan University, China (2016-2020). I spent a semester at Feng Chia University in Taiwan as an exchange student (2018.02-2018.07). 
+
+I am looking for industry jobs or postdoc positions. If you have any job offers, please feel free to reach out! 
+
+In my spare time, I enjoy painting, sketching, photography, piano, guitar, traveling, camping, hiking, running, biking, movies and reading. You can find some artwork on my [instagram <i class="fa-brands fa-instagram"></i>](https://www.instagram.com/jkderrick028/). 
 
 ## Experience
 `2023-Present` 
