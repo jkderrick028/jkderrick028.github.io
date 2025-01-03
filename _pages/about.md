@@ -18,33 +18,29 @@ Before starting grad school, I finished my BEng in Computer Science and BSc in M
 
 I am looking for industry jobs or postdoc positions. If you have any job offers, please feel free to reach out! 
 
-In my spare time, I enjoy painting, sketching, photography, piano, guitar, traveling, camping, hiking, running, biking, movies and reading. You can find some artwork on my [instagram <i class="fa-brands fa-instagram"></i>](https://www.instagram.com/jkderrick028/). 
+In my spare time, I enjoy painting, sketching, photography, piano, guitar, traveling, camping, hiking, running, biking, movies and reading. You can find some artwork on my [instagram](https://www.instagram.com/jkderrick028/). 
 
 ## Experience
-`2023-Present` 
-__MD Anderson__ Instructor (Sarcoma Medical Oncology)
 
-`2019-2023` 
-__MD Anderson__ Post Doctoral Fellow (Sarcoma Medical Oncology)
+`2020-Present` 
+__The University of Western Ontario__ Graduate Research Associate (Schulich School of Medicine & Dentistry)
 
-`2014-2018` 
-__Arizona State University__ Graduate Research Associate (School of Biological and Health Systems Engineering)
+`2023.07-2023.08`
+__Neuromatch Academy__ Lead Teaching Assistant for Deep Learning course 
 
-`2012-2014` 
-__University of Texas at Arlington__ Undergraduate Research Assistant (Department of Bioengineering)
+`2020-2021` 
+__Institute of Neuroscience, Chinese Academy of Sciences__ Research Assistant
 
 ## Education
 
-`2014-18`
-__Arizona State University__ Biomedical Engineering PhD (advisor: Mehdi Nikkhah). My thesis was titled _Microfluidic Models of Tumor-Stroma Interactions to Study the Interplay of Cancer Cells with their Surrounding Microenvironment_ and is available through the [ASU Library | Digital Repository](https://repository.asu.edu/items/54067){:target="_blank"}.
+`2016-2020`
+__Sichuan University__ (Chengdu, China) BEng in Computer Science, BSc in Mathematics
 
-`2012-14`
-__University of Texas at Arlington & University of Texas Southwestern Medical Center__ MSc Biomedical Engineering
+`2018.02-2018.07`
+__Feng Chia University__ (Taiwan) Exchange student
 
-`2009-14`
-__University of Texas at Arlington__ BSc Biology 
 
-## Awards and Honors
+<!-- ## Awards and Honors
 `2023`
 __Daniel Benedict Gazan Fellowship in Sarcoma Research__ MD Anderson Cancer Center
 
@@ -76,9 +72,9 @@ __ARCS Burton Scholar__ Phoenix Chapter of Achievement Rewards for College Scien
 __IFER Graduate Fellowship__ International Foundation for Ethical Research 
 
 `2014-2018` 
-__Dean's Fellow__ ASU Dean's Fellowship
+__Dean's Fellow__ ASU Dean's Fellowship -->
 
-## Selected Publications   
+<!-- ## Selected Publications   
 <div class="pub-list-item" style="margin-bottom: 1rem">
 <span itemprop="author">
 <strong>Truong, D. D.</strong> et.al</span>.
@@ -157,11 +153,11 @@ Peela, N.* ,<strong>Truong, D. D.</strong>*, Saini, H.* et.al</span>.
     <td><a href="https://whova.com/web/apcs_202010" target="_blank"> 2021 Annual Postdoctoral Career Symposium</a></td>
     <td>The Annual Postdoctoral Career Symposium (APCS) is designed and run by postdocs to help postdocs and those finishing grad school to seek out the career options that appeal to them most, and in some cases open up doors that we might not have known existed.</td>
   </tr>
-</table>
+</table> -->
 
 ## Contact me
 
-[dtruong4@mdanderson.org](mailto:dtruong4@mdanderson.org)
+[jkderrick028@gmail.com](mailto:jkderrick028@gmail.com)
 
 
 
