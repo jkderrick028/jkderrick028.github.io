@@ -31,6 +31,10 @@ __Neuromatch Academy__ Lead Teaching Assistant for Deep Learning course
 `2020.08-2021.03` 
 __Institute of Neuroscience, Chinese Academy of Sciences__ Research Assistant
 
+
+`2019.07-2019.10` 
+__The University of Western Ontario__ Research Assistant, Mitacs Globalink Research Internship Program
+
 ## Education
 
 `2016.09-2020.07`
