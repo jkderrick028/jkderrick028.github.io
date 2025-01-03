@@ -12,7 +12,7 @@ author_profile: true
 
 ---
 
-**Toward functional mapping of primate prefrontal cortex.**\
+**Toward task mapping of primate prefrontal cortex.**\
 <span style="color:#696969"><u>J. Xiang</u>, T. W. Schmitz, M. Mur. 2024, under review.</span>
 
 ---
