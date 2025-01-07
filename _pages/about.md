@@ -14,7 +14,7 @@ My research focuses on how prefrontal cortex, the hub of intelligence, supports 
 
 Before starting grad school, I finished my BEng in Computer Science and BSc in Mathematics at Sichuan University, China (2016-2020). I spent a semester at Feng Chia University in Taiwan as an exchange student (2018.02-2018.07). 
 
-I am looking for industry jobs or postdoc positions. If you have any job offers, please feel free to reach out! 
+I am looking for industry jobs or postdoc positions, where I can apply the analytical tools to solving real-world challenges or understanding brain functioning. If you have any job offers, please feel free to reach out! 
 
 In my spare time, I enjoy painting, sketching, photography, piano, guitar, traveling, camping, hiking, running, biking, movies and reading. You can find some artwork on my [instagram](https://www.instagram.com/jkderrick028/). 
 
