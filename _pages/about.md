@@ -8,7 +8,7 @@ author_profile: true
 
 ## Jinkang (Derrick) Xiang
 
-I am a PhD candidate in Neuroscience at The University of Western Ontario, Canada, working with Drs. Marieke Mur, Julio Martinez-Trujillo and Jörn Diedrichsen. 
+I am a PhD candidate in computational neuroscience at The University of Western Ontario, Canada, working with Drs. Marieke Mur, Julio Martinez-Trujillo and Jörn Diedrichsen. 
 
 My research focuses on how prefrontal cortex, the hub of intelligence, supports multiple higher-order cognitive functions flexibly, by analyzing monkey electrophysiology and human fMRI data using computational methods.   
 
