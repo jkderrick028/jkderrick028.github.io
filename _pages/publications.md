@@ -18,7 +18,7 @@ author_profile: true
 ---
 
 **Compositional representation of tasks in human multiple-demand cortex.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, M. Assem, G. Ngo, J. Duncan, M. Mur. 2024, *Organization for Human Brain Mapping (OHBM)*, Seoul, Korea. (Poster)</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, M. Assem, G. Ngo, J. Duncan, M. Mur. 2024, *Organization for Human Brain Mapping (OHBM)*, Seoul, Korea. [`Poster`](/assets/files/20240623_OHBM_poster.pdf)</span>
 
 ---
 
