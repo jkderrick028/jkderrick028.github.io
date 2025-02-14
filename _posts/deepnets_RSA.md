@@ -12,6 +12,37 @@ In this post, I'm presenting a toy project where I compare the representational 
 
 ## Stimuli 
 
+* 16 manmade objects 
+* 16 words describing these objects 
+
+<figure>
+<!-- <img src="/projects/deepnets_RSA/stimuli.jpg" width="1000" class="center"> -->
+
+<img src="/projects/deepnets_RSA/stimuli.jpg" class="center">
+
+</figure>
+
+
+## fMRI data 
+
+The participants were asked to maintain fixation while these images were displayed at the centre of fixation, on a uniform grey background, at a width of 9⁰ of visual angle. 
+
+* 32 stimuli --> 32 conditions
+* Stimulus duration = 500 ms
+* 12 trials per condition
+* 14 subjects
+* Whole-brain coverage
+* Voxel size = 3 mm3	
+
+
+<figure>
+
+<img src="/projects/deepnets_RSA/ROIs.png" class="center">
+
+</figure>
+
+
+
 
 
 
