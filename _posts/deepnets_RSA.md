@@ -1,23 +1,19 @@
 ---
 layout: single
 toc: true
-title: Principal Component Analysis
-tags: tutorials bioinformatics R machine-learning
+title: Comparing the representational similarity of objects in human brain and deep neural networks 
+tags: neuroAI, RSA 
 ---
-## Principal Component Analysis
+## Comparing the representational similarity of objects in human brain and deep neural networks
 
-In this post, I will be discussing Principal Component Analysis (PCA)
-and how it can be used in data sets to understand variation with many
-different variables. Many real-world data sets are often in high
-dimensions. In other words, they contain so many variables that it is
-difficult to distinguish a trend.
+Deep neural networks can achieve human-level performance in visual classification tasks. I'm curious about if two objects are represented differently by a neural network, are they also represented differently in human brain? In other words, are deep neural networks good candidates for studying how human brain represents visual objects? 
 
-PCA is a type of dimensional reduction method that can assist us by
-identifying which variables contribute to the variation within the data.
-It is similar to fitting a best fit line onto a 2D graph, but in this
-case there may be more than three-dimensions of data. It is formulated
-in the language of linear algebra and is an often used technique in data
-science and bioinformatics.
+In this post, I'm presenting a toy project where I compare the representational similarity of objects in human brain regions and deep convolutional neural networks (using AlexNet as an example).  
+
+## Stimuli 
+
+
+
 
 ``` r
 library(ggplot2)
