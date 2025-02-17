@@ -14,7 +14,7 @@ In this post, I'm presenting a toy project where I compare the representational 
 
 <figure>
 
-<img src="/projects/deepnets_RSA/visual_stream.png" align="center" width="50%">
+<img src="/projects/deepnets_RSA/visual_stream.png" align="center" style="width:50%">
 
 </figure>
 
@@ -68,7 +68,7 @@ As we can see, the words tend to elicit similar response in V1. These responses 
 
 <figure>
 
-<img src="/projects/deepnets_RSA/RDMs_V1.jpg" class="center" width="50%">
+<img src="/projects/deepnets_RSA/RDMs_V1.jpg" class="center" style="width:50%">
 <figcaption>RDM for V1 averaged across subjects</figcaption>
 
 </figure>
@@ -95,13 +95,14 @@ Similarly we can compute the RDMs for different layers of AlexNet.
 
 Naturally here comes the question: are layers of AlexNet good models for object representation in human brain?  
 
-To answer this question, we can assess the similarity of RDMs for each deep net layer and human brain region, by computing the Pearson correlation of these RDMs. 
-
+To answer this question, we can assess the similarity of model RDMs and human brain regions RDMs, using Pearson correlation. 
+ 
+Below we show the performance of model RDMs in explaining object representation in human V1. The height of the bars shows the mean Pearson correlation of model RDM and V1 RDM across subjects. Error bars show standard error of the mean. 
 
 <figure>
 
 <img src="/projects/deepnets_RSA/inference_V1.jpg" class="center">
-<figcaption>RDMs the layers of AlexNet</figcaption>
+<figcaption>Performance of model RDMs in explaining human V1 object representation</figcaption>
 
 </figure>
 
