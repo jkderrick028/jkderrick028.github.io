@@ -2,7 +2,7 @@
 title: "Fun Stuff"
 permalink: /fun/
 layout: single
-author_profile: true
+author_profile: false
 toc: false
 ---
 
