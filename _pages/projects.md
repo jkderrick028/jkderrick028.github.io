@@ -2,7 +2,7 @@
 title: "Projects"
 permalink: /projects/
 layout: single
-author_profile: true
+author_profile: false
 toc: false
 ---
 
@@ -98,7 +98,7 @@ Naturally here comes the question: are layers of AlexNet good models for object 
 
 To answer this question, we can assess the similarity of model RDMs and human brain regions RDMs, using Pearson correlation. 
  
-Below we show the performance of model RDMs in explaining object representation in human V1. The height of the bars shows the mean Pearson correlation of model RDM and V1 RDM across subjects. Error bars show standard error of the mean. 
+Below we show the performance of model RDMs in explaining object representation in human V1. The height of the bars shows the mean Pearson correlation of model RDM and V1 RDM across subjects. Error bars show standard error of the mean. Gray horizontal bars show the upper and lower bound of the noise ceiling. Gray dots show significantly lower performance compared to the noise ceiling. While dots show significantly higher than 0 performance. Black horizontal lines show pair-wise model comparison results. 
 
 <figure>
 
