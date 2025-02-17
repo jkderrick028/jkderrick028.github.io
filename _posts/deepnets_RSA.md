@@ -4,11 +4,20 @@ toc: true
 title: Comparing the representational similarity of objects in human brain and deep neural networks 
 tags: neuroAI, RSA 
 ---
+
+
+
 ## Comparing the representational similarity of objects in human brain and deep neural networks
 
 Deep neural networks can achieve human-level performance in visual classification tasks. I'm curious about if two objects are represented differently by a neural network, are they also represented differently in human brain? In other words, are deep neural networks good candidates for studying how human brain represents visual objects? 
 
 In this post, I'm presenting a toy project where I compare the representational similarity of objects in human brain regions and deep convolutional neural networks (using AlexNet as an example).  
+
+<details>
+<summary>
+expand
+</summary>
+
 
 ## Stimuli 
 
@@ -90,3 +99,4 @@ To answer this question, we can assess the similarity of RDMs for each deep net 
 </figure>
 
 
+</details>
