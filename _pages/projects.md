@@ -17,6 +17,7 @@ In this post, I'm presenting a toy project where I compare the representational 
 expand
 </summary>
 
+<br>
 
 ## Stimuli 
 
