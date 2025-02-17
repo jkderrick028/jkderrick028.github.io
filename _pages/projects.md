@@ -14,7 +14,7 @@ In this post, I'm presenting a toy project where I compare the representational 
 
 <figure>
 
-<img src="/projects/deepnets_RSA/visual_stream.png" class="center">
+<img src="/projects/deepnets_RSA/visual_stream.png" align="center" width="50%">
 
 </figure>
 
