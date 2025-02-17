@@ -31,7 +31,10 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 * scene sketching, ref Andrey
 <figure>
 <!-- <img src="/images/night_sketch.jpeg" width="450" class="center"> -->
-<img src="/images/sketching_1.jpg" width="1000" class="center">
+<!-- <img src="/images/sketching_1.jpg" width="1000" class="center"> -->
+
+<img src="/images/sketching_1.jpg" class="center">
+
 </figure>
 
 
