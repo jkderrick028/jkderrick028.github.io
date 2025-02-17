@@ -3,7 +3,7 @@ title: "Fun Stuff"
 permalink: /fun/
 layout: single
 author_profile: true
-toc: true
+toc: false
 ---
 
 Over the years, I developed quite a few hobbies to keep myself entertained. 

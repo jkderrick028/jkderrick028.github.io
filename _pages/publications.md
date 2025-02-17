@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 layout: single
-toc: true
+toc: false
 author_profile: true
 ---
 

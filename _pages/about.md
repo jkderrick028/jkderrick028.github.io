@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 layout: single
-toc: true
+toc: false
 author_profile: true
 ---
 

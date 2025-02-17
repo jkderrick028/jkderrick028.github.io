@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 layout: single
 author_profile: true
-toc: true
+toc: false
 ---
 
 ## Comparing the representational similarity of objects in human brain and deep neural networks
