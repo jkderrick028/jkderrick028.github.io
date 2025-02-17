@@ -12,7 +12,7 @@ Deep neural networks can achieve human-level performance in visual classificatio
 
 In this post, I'm presenting a toy project where I compare the representational similarity of objects in human brain regions and deep convolutional neural networks (using AlexNet as an example).  
 
-<details>
+<details markdown="1">
 <summary>
 expand
 </summary>
