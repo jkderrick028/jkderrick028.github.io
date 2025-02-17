@@ -69,6 +69,7 @@ As we can see, the words tend to elicit similar response in V1. These responses 
 <figure>
 
 <img src="/projects/deepnets_RSA/RDMs_V1.jpg" class="center" style="width:50%">
+
 <figcaption>RDM for V1 averaged across subjects</figcaption>
 
 </figure>
