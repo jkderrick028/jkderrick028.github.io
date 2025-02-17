@@ -43,7 +43,9 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 
 Water color painting, done in summer 2020 when I just finished my undergrad. 
 <figure>
-<img src="/images/painting_1.jpg" width="1000" class="center">
+<!-- <img src="/images/painting_1.jpg" width="1000" class="center"> -->
+<img src="/images/painting_1.jpg" class="center">
+
 </figure>
 
 
@@ -53,20 +55,27 @@ I love traveling and taking nice pictures of the scenes.
 
 * Tokyo, Japan
 <figure>
-<img src="/images/photography_jp_1.jpg" width="1000" class="center">
+<!-- <img src="/images/photography_jp_1.jpg" width="1000" class="center"> -->
+<img src="/images/photography_jp_1.jpg" class="center">
 </figure>
 
 * Vancouver, Canada
 <figure>
-<img src="/images/photography_vancouver.jpg" width="1000" class="center">
+<!-- <img src="/images/photography_vancouver.jpg" width="1000" class="center"> -->
+<img src="/images/photography_vancouver.jpg" class="center">
+
 </figure>
 
 * Frankfurt, Germany
 <figure>
-<img src="/images/photography_frankfurt.jpg" width="1000" class="center">
+<!-- <img src="/images/photography_frankfurt.jpg" width="1000" class="center"> -->
+<img src="/images/photography_frankfurt.jpg" class="center">
+
 </figure>
 
 * Hong Kong
 <figure>
-<img src="/images/photography_hk.jpg" width="1000" class="center">
+<!-- <img src="/images/photography_hk.jpg" width="1000" class="center"> -->
+<img src="/images/photography_hk.jpg" class="center">
+
 </figure>
