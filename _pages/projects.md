@@ -21,7 +21,7 @@ In this post, I'm presenting a toy project where I compare the representational 
 
 <details markdown="1">
 <summary>
-expand
+Read more
 </summary>
 
 <br>
