@@ -32,7 +32,6 @@ Read more
 * 16 words describing these objects 
 
 <figure>
-<!-- <img src="/projects/deepnets_RSA/stimuli.jpg" width="1000" class="center"> -->
 
 <img src="/projects/deepnets_RSA/stimuli.jpg" class="center">
 
