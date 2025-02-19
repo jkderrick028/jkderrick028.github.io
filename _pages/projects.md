@@ -6,6 +6,30 @@ author_profile: false
 toc: false
 ---
 
+
+## Task-specific topographic maps in primate lateral prefrontal cortex (LPFC) 
+
+The topographical maps in visual cortex are commonly used to describe how neurons with similar response preferences to stimulus features, such as eccentricities (Brewer et al. 2002), polar angles (Fang et al. 2022), and object categories (Bell et al. 2009), are organized. These maps extend multiple spatial scales and are largely independent of internal mental state. 
+
+LPFC supports multiple higher-order cognitive functions, such as working memory, decision making, and is part of the multiple-demand cortex. LPFC neurons flexibly adapt their activity according to rules, contextual associations and feedback. For instance, the same neuron may have different response preferences to objects and locations depending on whether the subject is doing an object task or a location task. Another way of phrasing it is that LPFC neurons exhibit selectivity to mixtures of task features. 
+
+Because of the adaptivity and mixed selectivity, the topographic maps should naturally extend from those in visual cortex, and reflect how neurons with similar responses to combinations of task features (a.k.a the tuning profiles) are organized. 
+
+We show that such topographic maps in LPFC do exist and are adaptive across tasks. In addition, the maps are organized at a fine-grained spatial scale that resembles the long-range afferent input patterns into LPFC. The fine-grained topographic maps could potentially be resolvable by advanced neuroimaging techniques in humans and allow us to understand how LPFC supports so many higher-order cognitive functions flexibly.  
+
+<figure>
+
+<img src="/projects/topoPFC/maps.jpg" align="center" style="width:100%">
+
+<figcaption>Topographic maps in primate visual regions and prefrontal cortex. Maps for LPFC are based on multi-electrode utah arrays (4 mm x 4 mm coverage, 10 x 10 electrodes) </figcaption>
+
+</figure>
+
+[[paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v1)][[code](https://github.com/jkderrick028/topoPFC)]
+
+
+
+
 ## Comparing the representational similarity of objects in human brain and deep neural networks
 
 Deep neural networks can achieve human-level performance in visual classification tasks. I'm curious about if two objects are represented differently by a neural network, are they also represented differently in human brain? In other words, are deep neural networks good candidates for studying how human brain represents visual objects? 
@@ -13,11 +37,10 @@ Deep neural networks can achieve human-level performance in visual classificatio
 In this post, I'm presenting a toy project where I compare the representational similarity of objects in human brain regions and deep convolutional neural networks (using AlexNet as an example).  
 
 <figure>
-
 <img src="/projects/deepnets_RSA/visual_stream.png" align="center" style="width:50%">
-
 </figure>
 
+[[code](https://github.com/jkderrick028/interp_deepnets/blob/main/demo.ipynb)]
 
 <details markdown="1">
 <summary>
