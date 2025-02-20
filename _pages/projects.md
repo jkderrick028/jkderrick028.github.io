@@ -200,7 +200,7 @@ Read more
 </summary>
 
 <iframe
-    src="assets/files/20240623_OHBM_poster.pdf"
+    src="/assets/files/20240623_OHBM_poster.pdf"
     frameBorder="0"
     scrolling="auto"
     height="100%"
