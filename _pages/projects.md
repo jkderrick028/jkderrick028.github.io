@@ -9,26 +9,45 @@ toc: false
 
 ## Task-specific topographic maps in primate lateral prefrontal cortex (LPFC) 
 
-The topographical maps in visual cortex are commonly used to describe how neurons with similar response preferences to stimulus features, such as eccentricities (Brewer et al. 2002), polar angles (Fang et al. 2022), and object categories (Bell et al. 2009), are organized. These maps extend multiple spatial scales and are largely independent of internal mental state. 
+The topographic maps in visual cortex are commonly used to describe how neurons with similar response preferences to stimulus features, such as eccentricities (Brewer et al. 2002), polar angles (Fang et al. 2022), and object categories (Bell et al. 2009), are organized. These maps extend multiple spatial scales and are largely independent of internal mental state. 
 
-LPFC supports multiple higher-order cognitive functions, such as working memory, decision making, and is part of the multiple-demand cortex. LPFC neurons flexibly adapt their activity according to rules, contextual associations and feedback. For instance, the same neuron may have different response preferences to objects and locations depending on whether the subject is doing an object task or a location task. Another way of phrasing it is that LPFC neurons exhibit selectivity to mixtures of task features. 
+How about LPFC? LPFC supports multiple higher-order cognitive functions, such as working memory, decision making, and motor planning. LPFC neurons flexibly adapt their activity according to rules, contextual associations and feedback. For instance, the same neuron may have different response preferences to objects and locations depending on whether the subject is doing an object task or a location task. Another way of phrasing it is that LPFC neurons exhibit selectivity to mixtures of task features. 
 
-Because of the adaptivity and mixed selectivity, the topographic maps should naturally extend from those in visual cortex, and reflect how neurons with similar responses to combinations of task features (a.k.a the tuning profiles) are organized. 
+Do topographic maps exist in LPFC as in sensory regions? If so, how do they look like? Are they similar or different across tasks? What's the spatial scale? 
 
-We show that such topographic maps in LPFC do exist and are adaptive across tasks. In addition, the maps are organized at a fine-grained spatial scale that resembles the long-range afferent input patterns into LPFC. The fine-grained topographic maps could potentially be resolvable by advanced neuroimaging techniques in humans and allow us to understand how LPFC supports so many higher-order cognitive functions flexibly.  
+Addressing these questions will allow us to understand how LPFC neurons performing similar computations are organized, as well as how LPFC supports so many higher-order cognitive functions flexibly. 
 
 <figure>
-
 <img src="/projects/topoPFC/maps.jpg" align="center" style="width:100%">
-
-<figcaption>Topographic maps in primate visual regions and prefrontal cortex. Maps for LPFC are based on multi-electrode utah arrays (4 mm x 4 mm coverage, 10 x 10 electrodes) </figcaption>
-
+<figcaption>Topographic maps in primate visual regions. </figcaption>
 </figure>
 
 [[paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v1)][[code](https://github.com/jkderrick028/topoPFC)]
 
 
+<details markdown="1">
+<summary>
+Read more
+</summary>
+<br>
 
+
+Because of the adaptivity and mixed selectivity, the topographic maps should naturally extend from those in visual cortex, and reflect how neurons with similar responses to combinations of task features (a.k.a the tuning profiles) are organized. 
+
+We show that such topographic maps in LPFC do exist and are adaptive across tasks. In addition, the maps are organized at a fine-grained spatial scale that resembles the long-range afferent input patterns into LPFC. The fine-grained topographic maps are potentially resolvable by advanced neuroimaging techniques in humans and allow for examining a systematically manipulated task space.  
+
+<figure>
+<img src="/projects/topoPFC/4_spatial-scale-maps.jpg" align="center" style="width:100%">
+<figcaption>
+a) Spatial autocorrelation functions (ACFs) for 3 tasks. Solid lines represent the ACFs for individual sessions in each task. Colors indicate arrays: light blue for the mB ventral array, dark blue for the mB dorsal array, and pink for the mT ventral array. Gray shaded areas indicate the width between two immediately neighboring channels on the array (0.4 mm). Vertical dashed lines show the median full-width-at-half-maximum (FWHM) of Laplacian functions fit to ACFs of individual sessions.
+
+b) Steps taken to visualize tuning similarity on the array. Channels with similar tuning profiles in a given task are similarly colored.  
+    
+c) Array maps for the mB dorsal array in all three tasks, using two example sessions per task.
+
+d) Array maps in panel c after smoothing with 2D Gaussian kernels whose FWHMs match that of the fitted Laplacian functions. 
+</figcaption>
+</figure>
 
 ## Comparing the representational similarity of objects in human brain and deep neural networks
 
