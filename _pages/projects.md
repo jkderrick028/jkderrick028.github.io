@@ -49,6 +49,9 @@ d) Array maps in panel c after smoothing with 2D Gaussian kernels whose FWHMs ma
 </figcaption>
 </figure>
 
+</details>
+
+
 ## Comparing the representational similarity of objects in human brain and deep neural networks
 
 Deep neural networks can achieve human-level performance in visual classification tasks. I'm curious about if two objects are represented differently by a neural network, are they also represented differently in human brain? In other words, are deep neural networks good candidates for studying how human brain represents visual objects? 
@@ -98,10 +101,6 @@ The participants were asked to maintain fixation while these images were display
 <figcaption>Fig. 2 Regions of interest</figcaption>
 
 </figure>
-
-</details>
-
-
 
 ## Representational similarity analysis (RSA)
 
