@@ -19,7 +19,7 @@ Addressing these questions will allow us to understand how LPFC neurons performi
 
 <figure>
 <img src="/projects/topoPFC/maps.jpg" align="center" style="width:100%">
-<figcaption>Topographic maps in primate visual regions. </figcaption>
+<figcaption>Topographic maps in primate visual regions. Figures adapted from Brewer et al 2002, Fang et al 2022, Bell et al 2019. </figcaption>
 </figure>
 
 [[paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v1)][[code](https://github.com/jkderrick028/topoPFC)]
@@ -68,9 +68,7 @@ In this post, I'm presenting a toy project where I compare the representational 
 Read more
 </summary>
 
-<br>
-
-## Stimuli 
+### Stimuli 
 
 * 16 manmade objects 
 * 16 words describing these objects 
@@ -82,7 +80,7 @@ Read more
 </figure>
 
 
-## fMRI data 
+### fMRI data 
 
 The participants were asked to maintain fixation while these images were displayed at the centre of fixation, on a uniform grey background, at a width of 9⁰ of visual angle. 
 
@@ -101,7 +99,7 @@ The participants were asked to maintain fixation while these images were display
 
 </figure>
 
-## Representational similarity analysis (RSA)
+### Representational similarity analysis (RSA)
 
 Each element of the representational dissimilarity matrix (RDM) reflects the differences in responses across all voxels elicited by a pair of conditions. By definition, the RDM is symmetrical and the diagonals should be zeros (responses elicited by the same condition should be the same). 
 
@@ -110,11 +108,8 @@ Here is an example RDM for V1, averaged across subjects. Each element of the mat
 As we can see, the words tend to elicit similar response in V1. These responses are different when subjects are viewing images of objects. 
 
 <figure>
-
 <img src="/projects/deepnets_RSA/RDMs_V1.jpg" class="center" style="width:50%">
-
 <figcaption>RDM for V1 averaged across subjects</figcaption>
-
 </figure>
 
 These are the RDMs for all ROIs, averaged across subjects. As we can see, the representational structure tend to be clearer in low-level visual regions than higher-order cognitive regions such as IPS and IFJ.  
@@ -179,3 +174,37 @@ We also see a wider noise ceiling towards higher-order cognitive regions. It is 
 
 </details>
 
+
+
+
+
+## Compositional representation of tasks in human multiple‑demand cortex
+
+The execution of complex cognitive tasks activates an extensive networks of frontal and parietal regions, known as the multiple-demand (MD) system, whose distributed activity patterns carry information about the task. 
+
+However, the functional organization of task representation remains unclear. Do certain tasks elicit more similar activity patterns than others? If so, what drives the functional organization? 
+
+
+Computational work suggests that asks may be represented in a compositional fashion in prefrontal cortex, where the representation of a task can be expressed as the algebraic sum of vectors representing the underlying sensory, cognitive and motor processes. 
+
+Empirical evidence for compositional coding is limited. It remains to be tested if this principle generalizes to tasks that require context-dependent decisions. 
+
+<figure>
+<img src="/projects/compositional_coding/compositional_coding.jpg" class="center">
+<figcaption>Compositional representation of tasks. Adapted from Yang et al 2019. </figcaption>
+</figure>
+
+<details markdown="1">
+<summary>
+Read more
+</summary>
+
+<iframe
+    src="assets/files/20240623_OHBM_poster.pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"
+></iframe>
+
+</details>
