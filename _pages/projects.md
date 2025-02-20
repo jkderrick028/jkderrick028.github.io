@@ -9,9 +9,9 @@ toc: false
 
 ## Task-specific topographic maps in primate lateral prefrontal cortex (LPFC) 
 
-The topographic maps in visual cortex are commonly used to describe how neurons with similar response preferences to stimulus features, such as eccentricities (Brewer et al. 2002), polar angles (Fang et al. 2022), and object categories (Bell et al. 2009), are organized. These maps extend multiple spatial scales and are largely independent of internal mental state. 
+The topographic maps in visual cortex are commonly used to describe how neurons with similar response preferences to stimulus features, such as eccentricities (Brewer et al. 2002), polar angles (Fang et al. 2022), and object categories (Bell et al. 2009), are organized. They provide information on how the external world is represented in the brain. These maps extend multiple spatial scales and are largely independent of internal mental state. 
 
-How about LPFC? LPFC supports multiple higher-order cognitive functions, such as working memory, decision making, and motor planning. LPFC neurons flexibly adapt their activity according to rules, contextual associations and feedback. For instance, the same neuron may have different response preferences to objects and locations depending on whether the subject is doing an object task or a location task. Another way of phrasing it is that LPFC neurons exhibit selectivity to mixtures of task features. 
+How about LPFC? LPFC supports multiple higher-order cognitive functions, such as working memory, decision making, and motor planning. LPFC neurons flexibly adapt their activity according to rules, contextual associations and feedback. For instance, the same neuron may have different response preferences to objects and locations depending on whether the subject is doing an object task or a location task. Another way of phrasing it is that LPFC neurons exhibit selectivity to mixtures of task features (instead of to simple low-level stimulus features like early sensory regions do). 
 
 Do topographic maps exist in LPFC as in sensory regions? If so, how do they look like? Are they similar or different across tasks? What's the spatial scale? 
 
@@ -29,19 +29,18 @@ Addressing these questions will allow us to understand how LPFC neurons performi
 <summary>
 Read more
 </summary>
-<br>
 
 
-Because of the adaptivity and mixed selectivity, the topographic maps should naturally extend from those in visual cortex, and reflect how neurons with similar responses to combinations of task features (a.k.a the tuning profiles) are organized. 
+Because of the adaptive coding and mixed selectivity, the topographic maps should naturally extend from those in visual cortex, and reflect how neurons with similar responses to combinations of task features (a.k.a the tuning profiles) are organized. 
 
-We show that such topographic maps in LPFC do exist and are adaptive across tasks. In addition, the maps are organized at a fine-grained spatial scale that resembles the long-range afferent input patterns into LPFC. The fine-grained topographic maps are potentially resolvable by advanced neuroimaging techniques in humans and allow for examining a systematically manipulated task space.  
+Such topographic maps in LPFC do exist and are adaptive across tasks. In addition, the maps are organized at a fine-grained spatial scale that resembles the long-range afferent input patterns into LPFC. The fine-grained topographic maps are potentially resolvable by advanced neuroimaging techniques in humans and allow for examining a systematically manipulated task space.  
 
 <figure>
 <img src="/projects/topoPFC/4_spatial-scale-maps.jpg" align="center" style="width:100%">
 <figcaption>
-a) Spatial autocorrelation functions (ACFs) for 3 tasks. Solid lines represent the ACFs for individual sessions in each task. Colors indicate arrays: light blue for the mB ventral array, dark blue for the mB dorsal array, and pink for the mT ventral array. Gray shaded areas indicate the width between two immediately neighboring channels on the array (0.4 mm). Vertical dashed lines show the median full-width-at-half-maximum (FWHM) of Laplacian functions fit to ACFs of individual sessions.
+a) Spatial autocorrelation functions (ACFs) for 3 tasks (oculomotor delayed response, visuospatial working memory, context-dependent decision making). Solid lines represent the ACFs for individual sessions in each task. Colors indicate arrays: light blue for mB ventral array, dark blue for mB dorsal array, and pink for mT ventral array. Gray shaded areas indicate the width between two immediately neighboring channels on the array (0.4 mm). Vertical dashed lines show the median full-width-at-half-maximum (FWHM) of Laplacian functions fit to ACFs of individual sessions.
 
-b) Steps taken to visualize tuning similarity on the array. Channels with similar tuning profiles in a given task are similarly colored.  
+b) Steps taken to visualize tuning similarity on the array. Channels with similar tuning profiles in a given task are similarly colored. The multi-electrode arrays are of 4 mm $\times$ 4 mm coverage, 10 $\times$ 10 electrodes.   
     
 c) Array maps for the mB dorsal array in all three tasks, using two example sessions per task.
 
@@ -59,7 +58,7 @@ Deep neural networks can achieve human-level performance in visual classificatio
 In this post, I'm presenting a toy project where I compare the representational similarity of objects in human brain regions and deep convolutional neural networks (using AlexNet as an example).  
 
 <figure>
-<img src="/projects/deepnets_RSA/visual_stream.png" align="center" style="width:50%">
+<img src="/projects/deepnets_RSA/visual_stream.png" align="center" style="width:60%">
 </figure>
 
 [[code](https://github.com/jkderrick028/interp_deepnets/blob/main/demo.ipynb)]
@@ -92,13 +91,13 @@ The participants were asked to maintain fixation while these images were display
 * 12 trials per condition
 * 14 subjects
 * whole-brain coverage
-* voxel size = 3 mm3	
+* voxel size = 3 mm isotropic 	
 * regions of interests (ROIs)
 
 <figure>
 
 <img src="/projects/deepnets_RSA/ROIs.png" class="center">
-<figcaption>Fig. 2 Regions of interest</figcaption>
+<figcaption>Regions of interest</figcaption>
 
 </figure>
 
@@ -145,11 +144,38 @@ To answer this question, we can assess the similarity of model RDMs and human br
 Below we show the performance of model RDMs in explaining object representation in human V1. The height of the bars shows the mean Pearson correlation of model RDM and V1 RDM across subjects. Error bars show standard error of the mean. Gray horizontal bars show the upper and lower bound of the noise ceiling. Gray dots show significantly lower performance compared to the noise ceiling. While dots show significantly higher than 0 performance. Black horizontal lines show pair-wise model comparison results. 
 
 <figure>
-
 <img src="/projects/deepnets_RSA/inference_V1.jpg" class="center">
 <figcaption>Performance of model RDMs in explaining human V1 object representation</figcaption>
-
 </figure>
+
+Overall the layers of AlexNet can predict data RDMs reasonably well for early visual regions, such as V1 and V2. However, when it comes to higher-order cognitive regions such as the IPS, IFJ, the prediction accuracies are low. It is partly because that the computations in higher-order cognitive regions are more complicated - they integrate not just visual information but also from other sensory modalities, such as auditory and touch. The neurons in these higher-order cognitive regions are modulated not by low-level stimulus features, but more abstract task features, such as rules, feedback, task context, and their interactions.  
+
+We also see a wider noise ceiling towards higher-order cognitive regions. It is because there tend to be more measurement noise and subject idiosyncrasies in these regions.  
+
+<figure>
+<img src="/projects/deepnets_RSA/inference_V2.jpg" class="center">
+</figure>
+
+<figure>
+<img src="/projects/deepnets_RSA/inference_V3.jpg" class="center">
+</figure>
+
+<figure>
+<img src="/projects/deepnets_RSA/inference_V4.jpg" class="center">
+</figure>
+
+<figure>
+<img src="/projects/deepnets_RSA/inference_IT.jpg" class="center">
+</figure>
+
+<figure>
+<img src="/projects/deepnets_RSA/inference_IPS.jpg" class="center">
+</figure>
+
+<figure>
+<img src="/projects/deepnets_RSA/inference_IFJ.jpg" class="center">
+</figure>
+
 
 </details>
 
