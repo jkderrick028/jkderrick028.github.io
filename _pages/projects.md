@@ -194,19 +194,4 @@ Empirical evidence for compositional coding is limited. It remains to be tested 
 <figcaption>Compositional representation of tasks. Adapted from Yang et al 2019. </figcaption>
 </figure>
 
-[poster](/assets/files/20240623_OHBM_poster.pdf)
-
-<details markdown="1">
-<summary>
-Read more
-</summary>
-
-<iframe
-    src="/assets/files/20240623_OHBM_poster.pdf"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></iframe>
-
-</details>
+[[poster]](/assets/files/20240623_OHBM_poster.pdf)
