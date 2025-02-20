@@ -99,6 +99,10 @@ The participants were asked to maintain fixation while these images were display
 
 </figure>
 
+</details>
+
+
+
 ## Representational similarity analysis (RSA)
 
 Each element of the representational dissimilarity matrix (RDM) reflects the differences in responses across all voxels elicited by a pair of conditions. By definition, the RDM is symmetrical and the diagonals should be zeros (responses elicited by the same condition should be the same). 
@@ -147,7 +151,6 @@ Below we show the performance of model RDMs in explaining object representation 
 <figcaption>Performance of model RDMs in explaining human V1 object representation</figcaption>
 
 </figure>
-
 
 </details>
 
