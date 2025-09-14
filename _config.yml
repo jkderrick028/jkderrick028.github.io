@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Jinkang (Derrick) Xiang"
   avatar           : "/images/Derrick.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in neuroscience at The University of Western Ontario"
+  bio              : "Computer scientist & mathematician working on machine learning and computational neuroscience"
   location         : "London, Canada"
   email            : jkderrick028@gmail.com
   links:
