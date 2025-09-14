@@ -22,7 +22,7 @@ Addressing these questions will allow us to understand how LPFC neurons performi
 <figcaption>Topographic maps in primate visual regions. Figures adapted from Brewer et al 2002, Fang et al 2022, Bell et al 2019. </figcaption>
 </figure>
 
-[[paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v1)][[code](https://github.com/jkderrick028/topoPFC)]
+[[paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v2)][[code](https://github.com/jkderrick028/topoPFC)]
 
 
 <details markdown="1">
