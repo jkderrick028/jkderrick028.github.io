@@ -8,12 +8,18 @@ author_profile: true
 
 
 **Task-specific topographical maps of neural activity in the primate lateral prefrontal cortex.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, R. A. Gulli, R. Luna, M. H. Mofrad, L. Muller, J. Diedrichsen, T. W. Schmitz, J. Martinez-Trujillo, M. Mur. 2024, under review. [`bioRxiv`](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v1) [`code`](https://github.com/jkderrick028/topoPFC).</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, R. A. Gulli, R. Luna, M. H. Mofrad, L. Muller, J. Diedrichsen, T. W. Schmitz, J. Martinez-Trujillo, M. Mur. 2025, under review. [`bioRxiv`](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v2) [`code`](https://github.com/jkderrick028/topoPFC).</span>
 
 ---
 
 **Toward task mapping of primate prefrontal cortex.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, T. W. Schmitz, M. Mur. 2024, under review.</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, T. W. Schmitz, M. Mur. 2025, *Neuropsychologia*[`paper`](https://doi.org/10.1016/j.neuropsychologia.2025.109234).</span>
+
+
+---
+
+**Variance explained by different model components does not behave like a Venn diagram.**\
+<span style="color:#696969"><u>J.D. Xiang</u>, M. Mur, J. Diedrichsen. 2025, *Cognitive Computational Neuroscience (CCN)*, Amsterdam, The Netherlands. [`poster`](/assets/files/20250812_CCN_poster.pdf) [`abstract`](https://2025.ccneuro.org/abstract_pdf/Xiang_2025_Variance_explained_different_model_components_behave.pdf) [`blog`](https://diedrichsenlab.org/BrainDataScience/variance_partitioning/index.htm)</span>
 
 ---
 
