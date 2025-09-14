@@ -15,7 +15,6 @@ author_profile: true
 **Toward task mapping of primate prefrontal cortex.**\
 <span style="color:#696969"><u>J.D. Xiang</u>, T. W. Schmitz, M. Mur. 2025, *Neuropsychologia*. [`paper`](https://doi.org/10.1016/j.neuropsychologia.2025.109234)</span>
 
-
 ---
 
 **Variance explained by different model components does not behave like a Venn diagram.**\
@@ -26,10 +25,10 @@ author_profile: true
 **Compositional representation of tasks in human multiple-demand cortex.**\
 <span style="color:#696969"><u>J.D. Xiang</u>, M. Assem, G. Ngo, J. Duncan, M. Mur. 2024, *Organization for Human Brain Mapping (OHBM)*, Seoul, Korea. [`poster`](/assets/files/20240623_OHBM_poster.pdf)</span>
 
----
+<!-- ---
 
 **Characterizing the spatial organization of population codes in macaque prefrontal cortex during visuospatial tasks.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2023, *Vision Science Society Annual Meeting (VSS)*, Florida, US. (poster)</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2023, *Vision Science Society Annual Meeting (VSS)*, Florida, US. (poster)</span> -->
 
 --- 
 
@@ -41,8 +40,8 @@ author_profile: true
 **Behavioral inflexibility from a neuronal population perspective.**\
 <span style="color:#696969"><u>J.D. Xiang</u>, Y. Chen, M. Roussy. 2021, *The Journal of Neuroscience* 41, 5350-5352. [`paper`](https://www.jneurosci.org/content/41/25/5350)</span>
 
----
+<!-- ---
 
 **Measuring the spatiotemporal scale of prefrontal population codes for visuospatial working memory.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2021, *Canadian Association for Neuroscience Annual Meeting (CAN)*, online. (poster)</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2021, *Canadian Association for Neuroscience Annual Meeting (CAN)*, online. (poster)</span> -->
 
