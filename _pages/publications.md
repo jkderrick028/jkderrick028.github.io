@@ -24,12 +24,12 @@ author_profile: true
 ---
 
 **Compositional representation of tasks in human multiple-demand cortex.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, M. Assem, G. Ngo, J. Duncan, M. Mur. 2024, *Organization for Human Brain Mapping (OHBM)*, Seoul, Korea. [`Poster`](/assets/files/20240623_OHBM_poster.pdf)</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, M. Assem, G. Ngo, J. Duncan, M. Mur. 2024, *Organization for Human Brain Mapping (OHBM)*, Seoul, Korea. [`poster`](/assets/files/20240623_OHBM_poster.pdf)</span>
 
 ---
 
 **Characterizing the spatial organization of population codes in macaque prefrontal cortex during visuospatial tasks.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2023, *Vision Science Society Annual Meeting (VSS)*, Florida, US. (Poster)</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2023, *Vision Science Society Annual Meeting (VSS)*, Florida, US. (poster)</span>
 
 --- 
 
@@ -44,5 +44,5 @@ author_profile: true
 ---
 
 **Measuring the spatiotemporal scale of prefrontal population codes for visuospatial working memory.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2021, *Canadian Association for Neuroscience Annual Meeting (CAN)*, online. (Poster)</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, M. Roussy, B. Corrigan, M.H. Mofrad, R. Luna, L. Muller, J. Martinez-Trujillo, M. Mur. 2021, *Canadian Association for Neuroscience Annual Meeting (CAN)*, online. (poster)</span>
 
