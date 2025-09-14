@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 **Toward task mapping of primate prefrontal cortex.**\
-<span style="color:#696969"><u>J.D. Xiang</u>, T. W. Schmitz, M. Mur. 2025, *Neuropsychologia*[`paper`](https://doi.org/10.1016/j.neuropsychologia.2025.109234).</span>
+<span style="color:#696969"><u>J.D. Xiang</u>, T. W. Schmitz, M. Mur. 2025, *Neuropsychologia*. [`paper`](https://doi.org/10.1016/j.neuropsychologia.2025.109234)</span>
 
 
 ---
