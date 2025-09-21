@@ -1,5 +1,5 @@
 ---
-title: "Selected projects"
+title: "Selected projects & publications"
 permalink: /projects/
 layout: single
 author_profile: false
