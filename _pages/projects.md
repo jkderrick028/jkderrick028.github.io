@@ -32,14 +32,11 @@ Xiang et al. (2025). Task-specific topographic maps of neural activity in the pr
 <img src="/projects/compositional_coding/compositional_coding.jpg" alt="visual_nets" align='left' width="50%"/> 
 <div markdown="1">
 
-The execution of complex cognitive tasks activates an extensive networks of frontal and parietal regions, known as the multiple-demand (MD) system, whose distributed activity patterns carry information about the task. 
+The execution of complex cognitive tasks repeatedly activates an extensive networks of frontal and parietal regions, known as the multiple-demand (MD) system, whose distributed activity patterns carry information about the task. However, the functional organization of task representation remains unclear. Do certain tasks elicit more similar activity patterns than others? If so, what drives the functional organization? 
 
-However, the functional organization of task representation remains unclear. Do certain tasks elicit more similar activity patterns than others? If so, what drives the functional organization? 
+Computational work suggests that asks may be represented in a compositional fashion in PFC, where the representation of a task can be expressed as the algebraic sum of vectors representing the underlying sensory, cognitive and motor processes. Empirical evidence for compositional coding is limited. It remains to be tested if this principle generalizes to tasks that require context-dependent decisions. In this work, we provide empirical support for composition coding. 
 
-
-Computational work suggests that asks may be represented in a compositional fashion in prefrontal cortex, where the representation of a task can be expressed as the algebraic sum of vectors representing the underlying sensory, cognitive and motor processes. 
-
-Empirical evidence for compositional coding is limited. It remains to be tested if this principle generalizes to tasks that require context-dependent decisions. 
+Figure adapted from Yang et al., (2019) *Nature Neuroscience*
 
 Xiang et al. (2024). Compositional representation of tasks in human multiple-demand cortex. *Organization for Human Brain Mapping* [abstract](https://jkderrick028.github.io/assets/files/2024_OHBM_abstract_Xiang.pdf), [poster](https://jkderrick028.github.io/assets/files/20240623_OHBM_poster.pdf)
 
@@ -47,6 +44,22 @@ Xiang et al. (2024). Compositional representation of tasks in human multiple-dem
 </div>
 
 
+
+## Model selection and inference
+
+<div style="display:flex; align-items: center; gap: 1%">
+<img src="/projects/model_family/venn_diagram.jpg" alt="visual_nets" align='left' width="50%"/> 
+<div markdown="1">
+
+In the context of statistical modelling, one often comes across the idea of variance partitioning, which quantifies how variance of a variable can be explained by an experimental feature. The idea of variance partitioning in linear models goes back to Fisher's ANOVA (Fisher, 1925). The proportion of variance explained by a certain set of predictors is the value for that model. In the case of a balanced ANOVA, where $X_1$ and $X_2$ are orthogonal, the variance explained by the joint model that combines the two regressors ($R^2_{1\cup2}$) is the sum of the variance explained by each one alone ($R^2_{1}+R^2_{2}$) (panel a).
+
+The trouble starts when we try to generalize this intuition to the more general case in which $X_1$ and $X_2$ are correlated (panel b). One of the problems is that the shared variance $R^2_{1\cap2}$ could go negative, due to suppression effect, which could render results uninterpretable or mislead conclusions. The explained variances for simple models and their combinations do not behave like a Venn-diagram. We propose a quantitative framework for model selection and inference.  
+
+
+Xiang et al. (2025). Variance explained by different model components does not behave like a Venn diagram. *Cognitive Computational Neuroscience*. [abstract](https://2025.ccneuro.org/abstract_pdf/Xiang_2025_Variance_explained_different_model_components_behave.pdf), [poster](https://jkderrick028.github.io/assets/files/20250812_CCN_poster.pdf), [blog](https://diedrichsenlab.org/BrainDataScience/variance_partitioning/index.htm)
+
+</div>
+</div>
 
 
 ## Comparing computer vision models vs. human visual perception
