@@ -52,7 +52,7 @@ Xiang et al. (2024). Compositional representation of tasks in human multiple-dem
 
 <div markdown="1">
 
-In the context of statistical modelling, one often comes across the idea of variance partitioning, which quantifies how variance of a variable can be explained by an experimental feature. The idea of variance partitioning in linear models goes back to Fisher's ANOVA (Fisher, 1925). The proportion of variance explained by a certain set of predictors is the value for that model. In the case of a balanced ANOVA, where $X_1$ and $$X_2$$ are orthogonal, the variance explained by the joint model that combines the two regressors ($R^2_{1\cup2}$) is the sum of the variance explained by each one alone ($R^2_{1}+R^2_{2}$) (panel a).
+In the context of statistical modelling, one often comes across the idea of variance partitioning, which quantifies how variance of a variable can be explained by an experimental feature. The idea of variance partitioning in linear models goes back to Fisher's ANOVA (Fisher, 1925). The proportion of variance explained by a certain set of predictors is the value for that model. In the case of a balanced ANOVA, where $X_1$ and $X_2$ are orthogonal, the variance explained by the joint model that combines the two regressors ($R^2_{1\cup2}$) is the sum of the variance explained by each one alone ($R^2_{1}+R^2_{2}$) (panel a).
 
 The trouble starts when we try to generalize this intuition to the more general case in which $X_1$ and $X_2$ are correlated (panel b). One of the problems is that the shared variance $R^2_{1\cap2}$ could go negative, due to suppression effect, which could render results uninterpretable or mislead conclusions. The explained variances for simple models and their combinations do not behave like a Venn-diagram. We propose a quantitative framework for model selection and inference.  
 
@@ -68,7 +68,7 @@ Xiang et al. (2025). Variance explained by different model components does not b
 <img src="/projects/deepnets_RSA/visual_stream.png" alt="visual_nets" align='left' width="50%"/> 
 
 <div markdown="1">
-Computer vision models, such as deep neural networks, can achieve human-level performance in many tasks, e.g. visual classification. Do neural networks and human visual brain regions carry out similar computations? If two objects are represented similarly by a neural network, are they also represented similarly in human brain? 
+Computer vision models, such as deep neural networks, can achieve human-level performance in many tasks, e.g. visual classification. Do neural networks and human visual brain regions carry out similar computations? If two objects are represented similarly by a neural network, are they also represented similarly in human brain? We address these questions empirically by comparing the object representations in AI models and human visual brain regions. 
 
 </div>
 </div>
