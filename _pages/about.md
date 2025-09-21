@@ -10,7 +10,7 @@ author_profile: true
 
 I am a PhD candidate in computational neuroscience at The University of Western Ontario, Canada, working with Drs. Marieke Mur, Julio Martinez-Trujillo and Jörn Diedrichsen. 
 
-My research focuses on how prefrontal cortex, the hub of intelligence, supports multiple higher-order cognitive functions flexibly, by analyzing monkey electrophysiology and human fMRI data using machine learning and statistics. I also develop analytical toolboxes for machine learning and neuroscience research community. 
+My research focuses on how prefrontal cortex, the hub of intelligence, supports multiple higher-order cognitive functions flexibly, by analyzing large-scale multitask monkey electrophysiology and human fMRI data using machine learning and statistics. I also develop analytical toolboxes for ML and neuroscience research community. 
 
 Before starting grad school, I finished my BEng in Computer Science and BSc in Mathematics at Sichuan University, China (2016-2020). I spent a semester at Feng Chia University in Taiwan as an exchange student (2018.02-2018.07). 
 
