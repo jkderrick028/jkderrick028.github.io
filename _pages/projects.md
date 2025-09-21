@@ -25,6 +25,29 @@ Xiang et al. (2025). Task-specific topographic maps of neural activity in the pr
 
 
 
+## Compositional representation of tasks in human brain
+
+<div style="display:flex; align-items: center; gap: 1%">
+<img src="/projects/compositional_coding/compositional_coding.jpg" alt="visual_nets" align='left' width="50%"/> 
+<div markdown="1">
+
+The execution of complex cognitive tasks activates an extensive networks of frontal and parietal regions, known as the multiple-demand (MD) system, whose distributed activity patterns carry information about the task. 
+
+However, the functional organization of task representation remains unclear. Do certain tasks elicit more similar activity patterns than others? If so, what drives the functional organization? 
+
+
+Computational work suggests that asks may be represented in a compositional fashion in prefrontal cortex, where the representation of a task can be expressed as the algebraic sum of vectors representing the underlying sensory, cognitive and motor processes. 
+
+Empirical evidence for compositional coding is limited. It remains to be tested if this principle generalizes to tasks that require context-dependent decisions. 
+
+Xiang et al. (2024). Compositional representation of tasks in human multiple-demand cortex. *Organization for Human Brain Mapping* [abstract](https://jkderrick028.github.io/assets/files/2024_OHBM_abstract_Xiang.pdf), [poster](https://jkderrick028.github.io/assets/files/20240623_OHBM_poster.pdf)
+
+</div>
+</div>
+
+
+
+
 ## Comparing computer vision models vs. human visual perception
 
 <div style="display:flex; align-items: center; gap: 1%">
@@ -36,25 +59,3 @@ Computer vision models, such as deep neural networks, can achieve human-level pe
 </div>
 </div>
 
-
- 
-
-
-
-## Compositional representation of tasks in human multiple‑demand cortex
-
-The execution of complex cognitive tasks activates an extensive networks of frontal and parietal regions, known as the multiple-demand (MD) system, whose distributed activity patterns carry information about the task. 
-
-However, the functional organization of task representation remains unclear. Do certain tasks elicit more similar activity patterns than others? If so, what drives the functional organization? 
-
-
-Computational work suggests that asks may be represented in a compositional fashion in prefrontal cortex, where the representation of a task can be expressed as the algebraic sum of vectors representing the underlying sensory, cognitive and motor processes. 
-
-Empirical evidence for compositional coding is limited. It remains to be tested if this principle generalizes to tasks that require context-dependent decisions. 
-
-<figure>
-<img src="/projects/compositional_coding/compositional_coding.jpg" class="center">
-<figcaption>Compositional representation of tasks. Adapted from Yang et al 2019. </figcaption>
-</figure>
-
-[[poster]](/assets/files/20240623_OHBM_poster.pdf)
