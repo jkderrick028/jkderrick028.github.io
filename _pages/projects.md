@@ -11,12 +11,13 @@ toc: false
 <img src="/projects/topoPFC/topo_maps.jpeg" alt="topo_maps" align='left' width="50%"/> 
 
 <div>
+<span>
 The topographic maps reveal how neurons carrying out similar computations are organized in the brain. For instance, in the primary visual cortex, neurons preferring similar polar angles and eccentricities are organized in pin-wheel patterns, mapping the external world onto the visual cortex.  
 
 How about the prefrontal cortex (PFC)? PFC supports multiple higher-order cognitive functions, such as working memory, decision making, and motor planning. PFC neurons flexibly adapt their activity according to rules, contextual associations and feedback. Do topographic maps exist in PFC as in visual regions? If so, how do they look like? How are different tasks inter-related in the brain? Addressing these questions will allow us to understand how our brain supports so many higher-order cognitive tasks flexibly. 
-
-Xiang et al. (2025). Toward task mapping of primate prefrontal cortex. *Neuropsychologia*. [paper](https://doi.org/10.1016/j.neuropsychologia.2025.109234)
-Xiang et al. (2025). Task-specific topographic maps of neural activity in the primate lateral prefrontal cortex. *Nature Communications*. (under review) [paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v2)
+</span>
+<span>Xiang et al. (2025). Toward task mapping of primate prefrontal cortex. *Neuropsychologia*. [paper](https://doi.org/10.1016/j.neuropsychologia.2025.109234)
+Xiang et al. (2025). Task-specific topographic maps of neural activity in the primate lateral prefrontal cortex. *Nature Communications*. (under review) [paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v2)</span>
 
 </div>
 </div>
