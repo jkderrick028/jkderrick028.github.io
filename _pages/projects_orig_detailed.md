@@ -1,10 +1,10 @@
----
+<!-- ---
 title: "Projects"
 permalink: /projects/
 layout: single
 author_profile: false
 toc: false
----
+--- -->
 
 
 ## Task-specific topographic maps in primate lateral prefrontal cortex (LPFC) 
