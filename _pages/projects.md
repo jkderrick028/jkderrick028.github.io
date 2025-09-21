@@ -82,7 +82,7 @@ Computer vision models, such as deep neural networks, can achieve human-level pe
 <div markdown="1">
 Behavioral flexibility, the ability to adapt behaviors in response to changes in the environment, is of great importance for everyday functioning. Behavioral flexibility is typically assessed using reversal learning tasks, in which subjects learn to perform a specific action to receive a reward, then must alter their behavior when a different action is rewarded instead. Impairments in such flexibility are observed in substance use disorder, characterized by persistent drug use despite negative outcomes. Individuals with substance use disorders may choose to use drugs even when more rewarding alternatives are available especially in contexts that were previously associated with drug use. Similar features of behavioral inflexibility appear in animal models exposed to cocaine and may manifest through subjects selecting a previously rewarded object when more highly rewarded objects are subsequently presented. We ask how behavioral inflexibility could be explained from a neural population coding perspective in animal models. 
 
-Figure adapted from Mueller et al. (2021). *Jornal of Neuroscience* 
+Figure adapted from Mueller et al. (2021). *Journal of Neuroscience* 
 
 Xiang et al. (2021). Behavioral inflexibility from a neuronal population perspective. *Journal of Neuroscience* [paper](https://www.jneurosci.org/content/41/25/5350)
 
