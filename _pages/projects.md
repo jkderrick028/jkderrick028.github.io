@@ -47,7 +47,7 @@ Xiang et al. (2024). Compositional representation of tasks in human multiple-dem
 
 ## Model selection and inference
 
-<div style="display:flex; align-items: center; gap: 1%">
+<div style="display:flex; align-items: center; gap: 1%" class="math-container">
 <img src="/projects/model_family/venn_diagram.jpg" alt="visual_nets" align='left' width="50%"/> 
 <div markdown="1">
 
