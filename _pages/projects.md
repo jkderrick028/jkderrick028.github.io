@@ -38,7 +38,7 @@ Computational work suggests that asks may be represented in a compositional fash
 
 Figure adapted from Yang et al., (2019) *Nature Neuroscience*
 
-Xiang et al. (2024). Compositional representation of tasks in human multiple-demand cortex. *Organization for Human Brain Mapping* [abstract](https://jkderrick028.github.io/assets/files/2024_OHBM_abstract_Xiang.pdf), [poster](https://jkderrick028.github.io/assets/files/20240623_OHBM_poster.pdf)
+Xiang et al. (2024). Compositional representation of tasks in human multiple-demand cortex. *Organization for Human Brain Mapping*. [abstract](https://jkderrick028.github.io/assets/files/2024_OHBM_abstract_Xiang.pdf), [poster](https://jkderrick028.github.io/assets/files/20240623_OHBM_poster.pdf)
 
 </div>
 </div>
