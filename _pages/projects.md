@@ -36,7 +36,7 @@ The execution of complex cognitive tasks repeatedly activates an extensive netwo
 
 Computational work suggests that asks may be represented in a compositional fashion in PFC, where the representation of a task can be expressed as the algebraic sum of vectors representing the underlying sensory, cognitive and motor processes. Empirical evidence for compositional coding is limited. It remains to be tested if this principle generalizes to tasks that require context-dependent decisions. In this work, we provide empirical support for composition coding. 
 
-Figure adapted from Yang et al., (2019) *Nature Neuroscience*
+Figure adapted from Yang et al. (2019). *Nature Neuroscience*
 
 Xiang et al. (2024). Compositional representation of tasks in human multiple-demand cortex. *Organization for Human Brain Mapping*. [abstract](https://jkderrick028.github.io/assets/files/2024_OHBM_abstract_Xiang.pdf), [poster](https://jkderrick028.github.io/assets/files/20240623_OHBM_poster.pdf)
 
@@ -82,7 +82,7 @@ Computer vision models, such as deep neural networks, can achieve human-level pe
 <div markdown="1">
 Behavioral flexibility, the ability to adapt behaviors in response to changes in the environment, is of great importance for everyday functioning. Behavioral flexibility is typically assessed using reversal learning tasks, in which subjects learn to perform a specific action to receive a reward, then must alter their behavior when a different action is rewarded instead. Impairments in such flexibility are observed in substance use disorder, characterized by persistent drug use despite negative outcomes. Individuals with substance use disorders may choose to use drugs even when more rewarding alternatives are available especially in contexts that were previously associated with drug use. Similar features of behavioral inflexibility appear in animal models exposed to cocaine and may manifest through subjects selecting a previously rewarded object when more highly rewarded objects are subsequently presented. We ask how behavioral inflexibility could be explained from a neural population coding perspective in animal models. 
 
-Figure adapted from Mueller et al. (2021) *Jornal of Neuroscience* 
+Figure adapted from Mueller et al. (2021). *Jornal of Neuroscience* 
 
 Xiang et al. (2021). Behavioral inflexibility from a neuronal population perspective. *Journal of Neuroscience* [paper](https://www.jneurosci.org/content/41/25/5350)
 
