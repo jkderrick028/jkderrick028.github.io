@@ -106,7 +106,7 @@ author:
   name             : "Jinkang (Derrick) Xiang"
   avatar           : "/images/Derrick.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer scientist & mathematician working on machine learning and computational neuroscience"
-  location         : "London, Canada"
+  location         : "Canada"
   email            : jxiang27@uwo.ca
   links:
     # - label: "Email"
