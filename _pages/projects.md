@@ -18,18 +18,18 @@ This work highlights the importance of individualized analyses for understanding
 
 **Xiang et al. (2026)** Individualized parcellation reveals functional boundaries in human prefrontal cortex. *Nature Communications* (under review). [paper](https://www.biorxiv.org/content/10.64898/2026.07.04.736504v1)
 
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/pfc_parcellation/PFC_parcellation.jpg" alt="individualized_parcellation" align='bottom' width="100%"/>
+<img
+  src="/projects/pfc_parcellation/PFC_parcellation.jpg"
+  alt="individualized_parcellation"
+  style="display:block; margin:auto;"
+  width="100%">
 
-</div>
-</div>
 
 
 ## Multitask representation in the prefrontal cortex 
 <!-- <div style="display:flex; align-items: center; gap: 1%">
 <img src="/projects/topoPFC/topo_maps.jpeg" alt="topo_maps" align='left' width="50%"/>  -->
 
-<div markdown="1">
 The prefrontal cortex flexibly supports diverse cognitive functions, including working memory, decision making, and motor planning. Unlike sensory cortices, however, it remains unclear whether neurons are organized into meaningful topographic maps.
 
 Using large-scale monkey electrophysiology recorded across multiple cognitive tasks, we investigate how neurons performing similar computations are spatially organized. Our work reveals task-specific topographic maps in the lateral prefrontal cortex, providing new insights into how multiple cognitive functions are implemented within the same neural circuitry.
@@ -43,9 +43,6 @@ Using large-scale monkey electrophysiology recorded across multiple cognitive ta
   alt="topo_maps"
   style="display:block; margin:auto;"
   width="50%">
-
-</div>
-</div>
 
 
 ## Multi-task batteries for precision functional mapping
@@ -64,13 +61,9 @@ This work introduces a large-scale multi-task fMRI battery designed for precisio
   style="display:block; margin:auto;"
   width="50%">
 
-</div>
-</div>
 
 
 ## Multi-task fMRI reveals task-invariant functional organization
-
-<div markdown="1">
 
 Resting-state fMRI has become the standard approach for mapping functional organization in the human brain. But can actively performing diverse cognitive tasks provide an even clearer picture?
 
@@ -78,12 +71,11 @@ Using precision fMRI datasets collected across many cognitive tasks, this work d
 
 **Nettekoven et al. (2026)** Multi-task fMRI outperforms resting-state fMRI for revealing task-invariant organization of the human brain. *Nature Neuroscience* (under review). [paper](https://www.biorxiv.org/content/10.64898/2026.03.09.710558v1.abstract)
 
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/multitask/task_invariant.png" alt="task_invariant" align='bottom' width="100%"/>
-
-</div>
-</div>
-
+<img
+  src="/projects/multitask/task_invariant.png"
+  alt="task_invariant"
+  style="display:block; margin:auto;"
+  width="100%">
 
 
 ## Compositional representation of tasks in human brain
@@ -98,8 +90,6 @@ Figure adapted from Yang et al. (2019). *Nature Neuroscience*
 
 <div style="display:flex; align-items: center; gap: 1%">
 <img src="/projects/compositional_coding/compositional_coding.jpg" alt="visual_nets" align='bottom' width="100%"/> 
-
-</div>
 </div>
 
 
@@ -118,13 +108,9 @@ We develop a principled statistical framework for model selection and inference 
   style="display:block; margin:auto;"
   width="50%">
 
-</div>
-</div>
-
 
 ## Comparing computer vision models vs. human visual perception
 
-<div markdown="1">
 Deep neural networks have achieved remarkable success in computer vision, but do they process visual information in the same way as the human brain? In this project, we compare object representations learned by modern computer vision models with neural representations measured using human fMRI. By applying representational similarity analysis, we investigate which stages of visual processing are captured by artificial neural networks and where biological and artificial vision diverge. This work contributes to understanding the computational principles shared between deep learning models and the human visual system.
 
 <img
@@ -132,9 +118,6 @@ Deep neural networks have achieved remarkable success in computer vision, but do
   alt="visual_nets"
   style="display:block; margin:auto;"
   width="80%">
-
-</div>
-</div>
 
 
 ## Behavioral inflexibility in addictions
@@ -150,6 +133,3 @@ Figure adapted from Mueller et al. (2021). *Journal of Neuroscience*
   alt="visual_nets"
   style="display:block; margin:auto;"
   width="80%">
-
-</div>
-</div>
