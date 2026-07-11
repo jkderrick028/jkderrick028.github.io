@@ -14,7 +14,7 @@ I am currently a Visiting Researcher at Mila – Quebec Artificial Intelligence 
 
 I recently completed my PhD in Computational Neuroscience at the University of Western Ontario in Canada, where I worked with Drs. Marieke Mur, Julio Martinez-Trujillo, and Jörn Diedrichsen.
 
-My research seeks to understand how the prefrontal cortex, the hub of intelligence, supports flexible cognition across diverse tasks. To address this question, I develop machine learning, statistical, and probabilistic modeling approaches to analyze large-scale monkey electrophysiology and human fMRI datasets. I am also interested in building open-source computational tools that make advanced analytical methods more accessible to the machine learning and neuroscience communities.
+My PhD research seeks to understand how the prefrontal cortex, the hub of intelligence, supports flexible cognition across diverse tasks. To address this question, I develop machine learning, statistical, and probabilistic modeling approaches to analyze large-scale monkey electrophysiology and human fMRI datasets. I am also interested in building open-source computational tools that make advanced analytical methods more accessible to the machine learning and neuroscience communities.
 
 Before graduate school, I earned a BEng in Computer Science and a BSc in Mathematics from Sichuan University in China (2016–2020). During my undergraduate studies, I spent a wonderful semester as an exchange student at Feng Chia University in Taiwan (2018).
 
