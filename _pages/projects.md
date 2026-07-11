@@ -139,4 +139,3 @@ Figure adapted from Mueller et al. (2021). *Journal of Neuroscience*
 
 </div>
 </div>
-
