@@ -16,8 +16,6 @@ Over the years, I developed quite a few hobbies to keep myself entertained.
 
 I started learning fine arts (sketching objects and figures, painting) since I was in primary school. In 2023, I got into urban sketching. These are some of my sketchings lately. 
 
-</div>
-
 
 <!-- ![image](/images/night_sketch.jpeg) -->
 <head>
