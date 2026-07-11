@@ -35,9 +35,9 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 * "It's been a long night in New York City." -- ref Martin Lewis
 * travel sketch, a train station in Kyoto, Japan
 * scene sketching, ref Andrey
-<figure>
-
 </div>
+
+<figure>
 
 
 <img src="/images/sketching_1.jpg" class="center">
@@ -48,7 +48,10 @@ I started learning fine arts (sketching objects and figures, painting) since I w
 
 ### Painting
 
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 Water color painting, done in summer 2020 when I just finished my undergrad. 
+</div>
+
 <figure>
 <!-- <img src="/images/painting_1.jpg" width="1000" class="center"> -->
 <img src="/images/painting_1.jpg" class="center">
