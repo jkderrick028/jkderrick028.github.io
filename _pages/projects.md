@@ -26,8 +26,8 @@ This work highlights the importance of individualized analyses for understanding
 
 
 ## Multitask representation in the prefrontal cortex 
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/topoPFC/topo_maps.jpeg" alt="topo_maps" align='left' width="50%"/> 
+<!-- <div style="display:flex; align-items: center; gap: 1%">
+<img src="/projects/topoPFC/topo_maps.jpeg" alt="topo_maps" align='left' width="50%"/>  -->
 
 <div markdown="1">
 The prefrontal cortex flexibly supports diverse cognitive functions, including working memory, decision making, and motor planning. Unlike sensory cortices, however, it remains unclear whether neurons are organized into meaningful topographic maps.
@@ -38,14 +38,17 @@ Using large-scale monkey electrophysiology recorded across multiple cognitive ta
 
 **Xiang et al. (2025)** Task-specific topographic maps of neural activity in the primate lateral prefrontal cortex. *Journal of Neuroscience*. (under review) [paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v2)
 
+<img
+  src="/projects/topoPFC/topo_maps.jpeg"
+  alt="topo_maps"
+  style="display:block; margin:auto;"
+  width="50%">
+
 </div>
 </div>
 
 
 ## Multi-task batteries for precision functional mapping
-
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/multitask/multitask_battery.png" alt="multitask_battery" align='left' width="50%"/>
 
 <div markdown="1">
 
@@ -54,6 +57,12 @@ Understanding how the human brain is functionally organized requires measurement
 This work introduces a large-scale multi-task fMRI battery designed for precision functional mapping. By sampling diverse cognitive domains within the same individuals, the dataset enables detailed characterization of functional organization and provides a valuable resource for studying individual variability in human cognition.
 
 **Arafat et al. (2026)** Multi-task batteries for precision functional mapping, *Nature Methods* (under review). [paper](https://www.biorxiv.org/content/10.64898/2026.03.20.713227v1.abstract)
+
+<img
+  src="/projects/multitask/multitask_battery.png"
+  alt="topo_maps"
+  style="display:block; margin:auto;"
+  width="50%">
 
 </div>
 </div>
@@ -89,19 +98,13 @@ Figure adapted from Yang et al. (2019). *Nature Neuroscience*
 
 <div style="display:flex; align-items: center; gap: 1%">
 <img src="/projects/compositional_coding/compositional_coding.jpg" alt="visual_nets" align='bottom' width="100%"/> 
-<div markdown="1">
 
 </div>
 </div>
 
 
 
-## Model selection and inference
-
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/model_family/venn_diagram.jpg" alt="visual_nets" align='left' width="50%"/> 
-
-<div markdown="1">
+## Model selection and inference 
 
 Many studies partition explained variance among competing computational models, but standard variance partitioning methods can produce misleading or even negative estimates when predictors are correlated.
 
@@ -109,17 +112,26 @@ We develop a principled statistical framework for model selection and inference 
 
 **Xiang et al. (2025)** Variance explained by different model components does not behave like a Venn diagram. *Cognitive Computational Neuroscience*. [abstract](https://2025.ccneuro.org/abstract_pdf/Xiang_2025_Variance_explained_different_model_components_behave.pdf), [poster](https://jkderrick028.github.io/assets/files/20250812_CCN_poster.pdf), [blog](https://diedrichsenlab.org/BrainDataScience/variance_partitioning/index.htm)
 
+<img
+  src="/projects/model_family/venn_diagram.jpg"
+  alt="visual_nets"
+  style="display:block; margin:auto;"
+  width="50%">
+
 </div>
 </div>
 
 
 ## Comparing computer vision models vs. human visual perception
 
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/deepnets_RSA/visual_stream.png" alt="visual_nets" align='left' width="50%"/> 
-
 <div markdown="1">
 Deep neural networks have achieved remarkable success in computer vision, but do they process visual information in the same way as the human brain? In this project, we compare object representations learned by modern computer vision models with neural representations measured using human fMRI. By applying representational similarity analysis, we investigate which stages of visual processing are captured by artificial neural networks and where biological and artificial vision diverge. This work contributes to understanding the computational principles shared between deep learning models and the human visual system.
+
+<img
+  src="/projects/deepnets_RSA/visual_stream.png"
+  alt="visual_nets"
+  style="display:block; margin:auto;"
+  width="80%">
 
 </div>
 </div>
@@ -127,15 +139,17 @@ Deep neural networks have achieved remarkable success in computer vision, but do
 
 ## Behavioral inflexibility in addictions
 
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/behavioural_inflexibility/Screenshot 2025-09-21 at 7.14.29 PM.png" alt="visual_nets" align='left' width="50%"/> 
-
-<div markdown="1">
 Behavioral flexibility, the ability to adapt actions when the environment changes, is essential for goal-directed behavior and is often impaired in substance use disorders. Individuals with addiction may persist with previously rewarded behaviors even when better alternatives become available. Using a neural population coding framework, we investigated how changes in population representations could account for this behavioral inflexibility in an animal model of cocaine exposure. Our results provide a mechanistic link between altered neural representations in the prefrontal cortex and impaired adaptive decision making.
 
 Figure adapted from Mueller et al. (2021). *Journal of Neuroscience* 
 
 **Xiang et al. (2021)** Behavioral inflexibility from a neuronal population perspective. *Journal of Neuroscience* [paper](https://www.jneurosci.org/content/41/25/5350)
+
+<img
+  src="/projects/behavioural_inflexibility/Screenshot 2025-09-21 at 7.14.29 PM.png"
+  alt="visual_nets"
+  style="display:block; margin:auto;"
+  width="80%">
 
 </div>
 </div>
