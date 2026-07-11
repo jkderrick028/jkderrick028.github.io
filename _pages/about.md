@@ -28,7 +28,9 @@ Outside of research, I enjoy painting, sketching, photography, playing the piano
 
 ## Contact me
 
-[jxiang27@uwo.ca](mailto:jxiang27@uwo.ca)
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
+[jxiang27@uwo.ca](mailto:jxiang27@uwo.ca)
+</div>
 
 
