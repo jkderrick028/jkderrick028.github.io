@@ -8,7 +8,7 @@ author_profile: true
 
 ## Jinkang (Derrick) Xiang
 
-<div markdown="1" style="font-size: 0.9rem; line-height: 1.7;">
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 I am currently a Visiting Researcher at Mila – Quebec Artificial Intelligence Institute.
 
