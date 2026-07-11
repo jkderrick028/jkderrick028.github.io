@@ -8,6 +8,8 @@ author_profile: true
 
 ## Jinkang (Derrick) Xiang
 
+<div style="font-size: 0.9rem; line-height: 1.7;">
+
 I am currently a Visiting Researcher at Mila – Quebec Artificial Intelligence Institute.
 
 I recently completed my PhD in Computational Neuroscience at the University of Western Ontario in Canada, where I worked with Drs. Marieke Mur, Julio Martinez-Trujillo, and Jörn Diedrichsen.
@@ -22,6 +24,7 @@ I am currently exploring postdoctoral and industry research opportunities. If yo
 
 Outside of research, I enjoy painting, sketching, photography, playing the piano and guitar, traveling, camping, hiking, running, cycling, watching films, and reading. You can also find some of my artwork on [instagram](https://www.instagram.com/jkderrick028/).
 
+</div>
 
 ## Contact me
 
