@@ -37,7 +37,7 @@ Using large-scale monkey electrophysiology recorded across multiple cognitive ta
 
 **Xiang et al. (2025)** Toward task mapping of primate prefrontal cortex. *Neuropsychologia*. [paper](https://doi.org/10.1016/j.neuropsychologia.2025.109234)
 
-**Xiang et al. (2025)** Task-specific topographic maps of neural activity in the primate lateral prefrontal cortex. *Journal of Neuroscience*. (under review) [paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v2)
+**Xiang et al. (2025)** Task-specific topographic maps of neural activity in the primate lateral prefrontal cortex. *Journal of Neuroscience* (under review). [paper](https://www.biorxiv.org/content/10.1101/2024.05.10.591729v2)
 
 <img
   src="/projects/topoPFC/topo_maps.jpeg"
@@ -56,7 +56,7 @@ Understanding how the human brain is functionally organized requires measurement
 
 This work introduces a large-scale multi-task fMRI battery designed for precision functional mapping. By sampling diverse cognitive domains within the same individuals, the dataset enables detailed characterization of functional organization and provides a valuable resource for studying individual variability in human cognition.
 
-**Arafat et al. (2026)** Multi-task batteries for precision functional mapping, *Nature Methods* (under review). [paper](https://www.biorxiv.org/content/10.64898/2026.03.20.713227v1.abstract)
+**Arafat et al. (2026)** Multi-task batteries for precision functional mapping. *Nature Methods* (under review). [paper](https://www.biorxiv.org/content/10.64898/2026.03.20.713227v1.abstract)
 
 <img
   src="/projects/multitask/multitask_battery.png"
@@ -144,9 +144,9 @@ Deep neural networks have achieved remarkable success in computer vision, but do
 
 Behavioral flexibility, the ability to adapt actions when the environment changes, is essential for goal-directed behavior and is often impaired in substance use disorders. Individuals with addiction may persist with previously rewarded behaviors even when better alternatives become available. Using a neural population coding framework, we investigated how changes in population representations could account for this behavioral inflexibility in an animal model of cocaine exposure. Our results provide a mechanistic link between altered neural representations in the prefrontal cortex and impaired adaptive decision making.
 
-Figure adapted from Mueller et al. (2021). *Journal of Neuroscience* 
+Figure adapted from Mueller et al. (2021). *Journal of Neuroscience*. 
 
-**Xiang et al. (2021)** Behavioral inflexibility from a neuronal population perspective. *Journal of Neuroscience* [paper](https://www.jneurosci.org/content/41/25/5350)
+**Xiang et al. (2021)** Behavioral inflexibility from a neuronal population perspective. *Journal of Neuroscience*. [paper](https://www.jneurosci.org/content/41/25/5350)
 
 <img
   src="/projects/behavioural_inflexibility/Screenshot 2025-09-21 at 7.14.29 PM.png"
