@@ -8,9 +8,6 @@ toc: false
 
 ## Individualized functional organization of the human prefrontal cortex
 
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/pfc_parcellation/PFC_parcellation.jpg" alt="individualized_parcellation" align='left' width="50%"/>
-
 <div markdown="1">
 
 The human prefrontal cortex (PFC) supports a wide range of higher-order cognitive functions, including reasoning, decision making, planning, and cognitive control. While previous studies have emphasized large-scale functional gradients across the PFC, it remains unclear whether these gradients fully explain its organization or whether distinct functional boundaries also exist.
@@ -20,6 +17,9 @@ Using six richly sampled multi-task fMRI datasets, we developed individualized p
 This work highlights the importance of individualized analyses for understanding higher-order cognition and provides new tools for studying the functional architecture of the human prefrontal cortex.
 
 **Xiang et al. (2026)** Individualized parcellation reveals functional boundaries in human prefrontal cortex. *Nature Communications* (under review). [paper](https://www.biorxiv.org/content/10.64898/2026.07.04.736504v1)
+
+<div style="display:flex; align-items: center; gap: 1%">
+<img src="/projects/pfc_parcellation/PFC_parcellation.jpg" alt="individualized_parcellation" align='bottom' width="100%"/>
 
 </div>
 </div>
@@ -61,9 +61,6 @@ This work introduces a large-scale multi-task fMRI battery designed for precisio
 
 ## Multi-task fMRI reveals task-invariant functional organization
 
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/multitask/task_invariant.png" alt="task_invariant" align='left' width="50%"/>
-
 <div markdown="1">
 
 Resting-state fMRI has become the standard approach for mapping functional organization in the human brain. But can actively performing diverse cognitive tasks provide an even clearer picture?
@@ -72,16 +69,15 @@ Using precision fMRI datasets collected across many cognitive tasks, this work d
 
 **Nettekoven et al. (2026)** Multi-task fMRI outperforms resting-state fMRI for revealing task-invariant organization of the human brain. *Nature Neuroscience* (under review). [paper](https://www.biorxiv.org/content/10.64898/2026.03.09.710558v1.abstract)
 
+<div style="display:flex; align-items: center; gap: 1%">
+<img src="/projects/multitask/task_invariant.png" alt="task_invariant" align='bottom' width="100%"/>
+
 </div>
 </div>
 
 
 
 ## Compositional representation of tasks in human brain
-
-<div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/compositional_coding/compositional_coding.jpg" alt="visual_nets" align='left' width="50%"/> 
-<div markdown="1">
 
 Humans effortlessly perform multiple tasks and solve new tasks. Inspired by computational theories of compositional representations, we ask whether the human brain organizes task representations in a similarly compositional manner.
 
@@ -90,6 +86,10 @@ Using multi-task fMRI and representational analyses, we provide empirical eviden
 Figure adapted from Yang et al. (2019). *Nature Neuroscience*
 
 **Xiang et al. (2024)** Compositional representation of tasks in human multiple-demand cortex. *Organization for Human Brain Mapping*. [abstract](https://jkderrick028.github.io/assets/files/2024_OHBM_abstract_Xiang.pdf), [poster](https://jkderrick028.github.io/assets/files/20240623_OHBM_poster.pdf)
+
+<div style="display:flex; align-items: center; gap: 1%">
+<img src="/projects/compositional_coding/compositional_coding.jpg" alt="visual_nets" align='bottom' width="100%"/> 
+<div markdown="1">
 
 </div>
 </div>
