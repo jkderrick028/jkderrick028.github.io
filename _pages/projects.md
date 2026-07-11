@@ -8,7 +8,7 @@ toc: false
 
 ## Individualized functional organization of the human prefrontal cortex
 
-<div markdown="1">
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 The human prefrontal cortex (PFC) supports a wide range of higher-order cognitive functions, including reasoning, decision making, planning, and cognitive control. While previous studies have emphasized large-scale functional gradients across the PFC, it remains unclear whether these gradients fully explain its organization or whether distinct functional boundaries also exist.
 
@@ -24,11 +24,12 @@ This work highlights the importance of individualized analyses for understanding
   style="display:block; margin:auto;"
   width="100%">
 
+</div>
 
 
 ## Multitask representation in the prefrontal cortex 
-<!-- <div style="display:flex; align-items: center; gap: 1%">
-<img src="/projects/topoPFC/topo_maps.jpeg" alt="topo_maps" align='left' width="50%"/>  -->
+
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 The prefrontal cortex flexibly supports diverse cognitive functions, including working memory, decision making, and motor planning. Unlike sensory cortices, however, it remains unclear whether neurons are organized into meaningful topographic maps.
 
@@ -44,10 +45,12 @@ Using large-scale monkey electrophysiology recorded across multiple cognitive ta
   style="display:block; margin:auto;"
   width="50%">
 
+</div>
+
 
 ## Multi-task batteries for precision functional mapping
 
-<div markdown="1">
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 Understanding how the human brain is functionally organized requires measurements that are both comprehensive and reliable. Conventional fMRI studies often rely on a small number of tasks, limiting the range of cognitive processes that can be investigated.
 
@@ -61,9 +64,12 @@ This work introduces a large-scale multi-task fMRI battery designed for precisio
   style="display:block; margin:auto;"
   width="50%">
 
+</div>
 
 
 ## Multi-task fMRI reveals task-invariant functional organization
+
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 Resting-state fMRI has become the standard approach for mapping functional organization in the human brain. But can actively performing diverse cognitive tasks provide an even clearer picture?
 
@@ -77,8 +83,12 @@ Using precision fMRI datasets collected across many cognitive tasks, this work d
   style="display:block; margin:auto;"
   width="100%">
 
+</div>
+
 
 ## Compositional representation of tasks in human brain
+
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 Humans effortlessly perform multiple tasks and solve new tasks. Inspired by computational theories of compositional representations, we ask whether the human brain organizes task representations in a similarly compositional manner.
 
@@ -91,10 +101,12 @@ Figure adapted from Yang et al. (2019). *Nature Neuroscience*
 <div style="display:flex; align-items: center; gap: 1%">
 <img src="/projects/compositional_coding/compositional_coding.jpg" alt="visual_nets" align='bottom' width="100%"/> 
 </div>
-
+</div>
 
 
 ## Model selection and inference 
+
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 Many studies partition explained variance among competing computational models, but standard variance partitioning methods can produce misleading or even negative estimates when predictors are correlated.
 
@@ -108,8 +120,12 @@ We develop a principled statistical framework for model selection and inference 
   style="display:block; margin:auto;"
   width="50%">
 
+</div>
+
 
 ## Comparing computer vision models vs. human visual perception
+
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 Deep neural networks have achieved remarkable success in computer vision, but do they process visual information in the same way as the human brain? In this project, we compare object representations learned by modern computer vision models with neural representations measured using human fMRI. By applying representational similarity analysis, we investigate which stages of visual processing are captured by artificial neural networks and where biological and artificial vision diverge. This work contributes to understanding the computational principles shared between deep learning models and the human visual system.
 
@@ -119,8 +135,12 @@ Deep neural networks have achieved remarkable success in computer vision, but do
   style="display:block; margin:auto;"
   width="80%">
 
+</div>
+
 
 ## Behavioral inflexibility in addictions
+
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 Behavioral flexibility, the ability to adapt actions when the environment changes, is essential for goal-directed behavior and is often impaired in substance use disorders. Individuals with addiction may persist with previously rewarded behaviors even when better alternatives become available. Using a neural population coding framework, we investigated how changes in population representations could account for this behavioral inflexibility in an animal model of cocaine exposure. Our results provide a mechanistic link between altered neural representations in the prefrontal cortex and impaired adaptive decision making.
 
@@ -133,3 +153,5 @@ Figure adapted from Mueller et al. (2021). *Journal of Neuroscience*
   alt="visual_nets"
   style="display:block; margin:auto;"
   width="80%">
+
+</div>
