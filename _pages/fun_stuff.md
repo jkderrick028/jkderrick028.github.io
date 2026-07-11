@@ -6,12 +6,17 @@ author_profile: false
 toc: false
 ---
 
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 Over the years, I developed quite a few hobbies to keep myself entertained. 
-
+</div>
 
 ### Sketching
 
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
+
 I started learning fine arts (sketching objects and figures, painting) since I was in primary school. In 2023, I got into urban sketching. These are some of my sketchings lately. 
+
+</div>
 
 
 <!-- ![image](/images/night_sketch.jpeg) -->
@@ -25,13 +30,15 @@ I started learning fine arts (sketching objects and figures, painting) since I w
     </style>
 </head>
 
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 * "It's been a long night in New York City." -- ref Martin Lewis
 * travel sketch, a train station in Kyoto, Japan
 * scene sketching, ref Andrey
 <figure>
-<!-- <img src="/images/night_sketch.jpeg" width="450" class="center"> -->
-<!-- <img src="/images/sketching_1.jpg" width="1000" class="center"> -->
+
+</div>
+
 
 <img src="/images/sketching_1.jpg" class="center">
 
@@ -50,6 +57,8 @@ Water color painting, done in summer 2020 when I just finished my undergrad.
 
 
 ### Photography
+
+<div markdown="1" style="font-size: 0.8rem; line-height: 1.7;">
 
 I love traveling and taking nice pictures of the scenes. 
 
@@ -79,3 +88,5 @@ I love traveling and taking nice pictures of the scenes.
 <img src="/images/photography_hk.jpg" class="center">
 
 </figure>
+
+</div>
