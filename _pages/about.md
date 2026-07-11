@@ -8,20 +8,24 @@ author_profile: true
 
 ## Jinkang (Derrick) Xiang
 
-I am a PhD candidate in computational neuroscience at The University of Western Ontario, Canada, working with Drs. Marieke Mur, Julio Martinez-Trujillo and Jörn Diedrichsen. 
+I am currently a Visiting Researcher at Mila – Quebec Artificial Intelligence Institute.
 
-My research focuses on how prefrontal cortex, the hub of intelligence, supports multiple higher-order cognitive functions flexibly, by analyzing large-scale multitask monkey electrophysiology and human fMRI data using machine learning and statistics. I also develop analytical toolboxes for ML and neuroscience research community. 
+I recently completed my PhD in Computational Neuroscience at the University of Western Ontario in Canada, where I worked with Drs. Marieke Mur, Julio Martinez-Trujillo, and Jörn Diedrichsen.
 
-Before starting grad school, I finished my BEng in Computer Science and BSc in Mathematics at Sichuan University, China (2016-2020). I spent a semester at Feng Chia University in Taiwan as an exchange student (2018.02-2018.07). 
+My research seeks to understand how the prefrontal cortex, the hub of intelligence, supports flexible cognition across diverse tasks. To address this question, I develop machine learning, statistical, and probabilistic modeling approaches to analyze large-scale monkey electrophysiology and human fMRI datasets. I am also interested in building open-source computational tools that make advanced analytical methods more accessible to the machine learning and neuroscience communities.
 
-I am looking for industry jobs or postdoc positions, where I can apply the computational methods to solving real-world challenges or understanding brain functioning. If you have any job offers, please feel free to reach out! 
+Before graduate school, I earned a BEng in Computer Science and a BSc in Mathematics from Sichuan University (2016–2020). During my undergraduate studies, I spent a wonderful semester as an exchange student at Feng Chia University in Taiwan (2018).
 
-In my spare time, I enjoy painting, sketching, photography, piano, guitar, traveling, camping, hiking, running, biking, movies and reading. You can find some artwork on my [instagram](https://www.instagram.com/jkderrick028/). 
+More broadly, I am interested in developing AI systems that advance scientific discovery and improve disease diagnosis and treatment. I am also fascinated by building more flexible, adaptable, and data-efficient AI systems inspired by principles of brain functioning.
+
+I am currently exploring postdoctoral and industry research opportunities. If you think my background could be a good fit for your team, I would be happy to connect.
+
+Outside of research, I enjoy painting, sketching, photography, playing the piano and guitar, traveling, camping, hiking, running, cycling, watching films, and reading. You can also find some of my artwork on [instagram](https://www.instagram.com/jkderrick028/).
 
 
 ## Contact me
 
-[jkderrick028@gmail.com](mailto:jkderrick028@gmail.com)
+[jxiang27@uwo.ca](mailto:jxiang27@uwo.ca)
 
 
 
