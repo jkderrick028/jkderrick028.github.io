@@ -107,7 +107,7 @@ author:
   avatar           : "/images/Derrick.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer scientist & mathematician working on machine learning and computational neuroscience"
   location         : "London, Canada"
-  email            : jkderrick028@gmail.com
+  email            : jxiang27@uwo.ca
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
